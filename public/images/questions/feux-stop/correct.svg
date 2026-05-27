@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F0F6FB"/>
+      <stop offset="100%" style="stop-color:#DCE9F2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Fond page -->
+  <rect width="600" height="450" fill="url(#bg)"/>
+
+  <!-- Barre accent couleur -->
+  <rect width="600" height="4" fill="#1B6BA0"/>
+
+  <!-- Surface carte -->
+  <rect x="40" y="55" width="520" height="340" fill="white" rx="18" opacity="0.72"/>
+
+  <!-- Emoji centré -->
+  <text x="300" y="225" text-anchor="middle" dominant-baseline="central"
+        font-size="100"
+        font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif">🔴</text>
+</svg>

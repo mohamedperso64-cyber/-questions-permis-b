@@ -1,0 +1,186 @@
+{
+  "_doc": "Lot 3 — enrichissement Q21 à Q30.",
+
+  "21": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["ventilation", "air chaud", "climatisation"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Informer les automobilistes des perturbations sur les routes.",
+        "Coordonner les actions des services de secours en cas d'accident.",
+        "Diffuser les messages d'urgence des organismes humanitaires."
+      ],
+      "mots_cles_memo": ["avertir", "danger imminent"]
+    }
+  },
+
+  "22": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une fuite massive d'huile sur la route.",
+        "Une augmentation brutale de la consommation de carburant.",
+        "Un déclenchement permanent du système ABS."
+      ],
+      "mots_cles_memo": ["détérioration", "casse moteur"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["sirènes", "médias", "application"]
+    }
+  },
+
+  "23": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une exposition prolongée au froid en hiver.",
+        "L'âge avancé de la batterie et son usure naturelle.",
+        "Un mauvais contact des cosses de la batterie."
+      ],
+      "mots_cles_memo": ["feux", "accessoires électriques"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "À partir de 7 ans, dès la fin de l'école primaire.",
+        "À partir de 14 ans, comme pour le BAFA.",
+        "À partir de 16 ans, en même temps que l'ASSR2."
+      ],
+      "mots_cles_memo": ["10 ans"]
+    }
+  },
+
+  "24": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["parallèle", "remplacer"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["lésions", "cerveau", "minutes"]
+    }
+  },
+
+  "25": {
+    "verif": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Orange.",
+        "Jaune.",
+        "Vert."
+      ],
+      "mots_cles_memo": ["rouge"]
+    },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une surchauffe importante du moteur en circulation.",
+        "Une perte d'adhérence des roues arrière.",
+        "Un dysfonctionnement de la transmission automatique."
+      ],
+      "mots_cles_memo": ["dégradation", "freinage"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["30", "virage", "côte"]
+    }
+  },
+
+  "26": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["vision", "éblouissement"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsqu'il pleut et qu'il y a un risque d'hypothermie.",
+        "Lorsque la circulation gêne l'intervention des secours.",
+        "Lorsque la victime semble très anxieuse au sol."
+      ],
+      "mots_cles_memo": ["danger réel", "immédiat", "non contrôlable"]
+    }
+  },
+
+  "27": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un blocage du démarreur électrique.",
+        "Une fuite généralisée du liquide hydraulique.",
+        "Un arrêt complet des essuie-glaces."
+      ],
+      "mots_cles_memo": ["surchauffe", "casse moteur"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["conseiller", "guider", "gestes"]
+    }
+  },
+
+  "28": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Protéger la carrosserie des rayures et impacts.",
+        "Améliorer l'aérodynamisme du véhicule.",
+        "Réduire la consommation de carburant la nuit."
+      ],
+      "mots_cles_memo": ["visible", "nuit"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Quand on a transmis toutes les informations utiles.",
+        "Quand les secours sont visibles sur les lieux.",
+        "Quand la victime est stabilisée et hors de danger."
+      ],
+      "mots_cles_memo": ["correspondant", "invite"]
+    }
+  },
+
+  "29": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["sécurité enfant", "arrière"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["questions", "épaules", "main"]
+    }
+  },
+
+  "30": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "À 50 mètres.",
+        "À 100 mètres.",
+        "À 200 mètres."
+      ],
+      "mots_cles_memo": ["150 mètres"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une déshydratation rapide et une perte de chaleur.",
+        "Une compression des membres provoquant des engourdissements.",
+        "Une crise d'anxiété et de panique au réveil."
+      ],
+      "mots_cles_memo": ["arrêt respiratoire", "arrêt cardiaque"]
+    }
+  }
+}

@@ -1,0 +1,144 @@
+/* ===================================================================
+   PERMIS RÉVISION — Charte « Cockpit clair »
+   Tableau de bord automobile classieux en mode clair.
+   =================================================================== */
+
+:root {
+  /* --- Surfaces & fond --- */
+  --bg-page: #F7F4ED;          /* papier / cuir clair de tableau de bord */
+  --bg-surface: #FFFFFF;        /* cartes */
+  --bg-surface-alt: #FDFAF3;    /* surface avec teinte chaude */
+  --bg-inset: #1A1D24;          /* fond foncé (cadre odomètre) */
+
+  /* --- Texte --- */
+  --text-primary: #1C2128;      /* anthracite */
+  --text-secondary: #62686F;
+  --text-faint: #9CA0A6;
+  --text-on-dark: #F4F1E8;
+
+  /* --- Accents --- */
+  --ocean: #1B6BA0;             /* bleu océan principal */
+  --ocean-dim: #15527D;
+  --ocean-deep: #0F3F5F;        /* plus profond pour textes accent */
+  --ocean-light: #DCE9F2;
+
+  --slate: #4A5568;             /* gris ardoise — secondaire neutre */
+  --slate-light: #E2E6EB;
+
+  --bronze: #A8843A;            /* bronze antique — accent chaud non-neutre, profond */
+  --bronze-dim: #7F6228;
+  --bronze-light: #F2E7CC;
+
+  --success: #2D7D32;
+  --success-light: #E6F3E7;
+  --danger: #C32A2A;
+  --danger-light: #F7E0E0;
+  --warning: #C8772E;           /* orange doux (remplace moutarde) */
+  --warning-light: #FBE7D8;
+
+  /* --- Bordures --- */
+  --border: #E5E0D5;
+  --border-medium: #D0CABD;
+  --border-strong: #B8B2A3;
+
+  /* --- Typographies --- */
+  --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'Roboto Mono', 'IBM Plex Mono', Consolas, monospace;
+
+  /* --- Espacements --- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-8: 48px;
+  --space-10: 64px;
+
+  /* --- Rayons (généreux pour un feel moderne) --- */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --radius-pill: 999px;
+
+  /* --- Ombres (douces, light mode) --- */
+  --shadow-soft: 0 1px 2px rgba(28, 33, 40, 0.05), 0 2px 8px rgba(28, 33, 40, 0.04);
+  --shadow-card: 0 1px 3px rgba(28, 33, 40, 0.06), 0 8px 24px rgba(28, 33, 40, 0.06);
+  --shadow-raised: 0 1px 2px rgba(28, 33, 40, 0.1), 0 3px 6px rgba(28, 33, 40, 0.08);
+  --shadow-inset: inset 0 2px 4px rgba(0, 0, 0, 0.08), inset 0 -1px 0 rgba(255, 255, 255, 0.6);
+
+  --t-fast: 120ms ease-out;
+  --t-base: 220ms ease-out;
+
+  color-scheme: light;
+}
+
+/* ===================================================================
+   Reset + base
+   =================================================================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-page);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.55;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background:
+    radial-gradient(ellipse at top, #FBF8F1 0%, var(--bg-page) 70%);
+}
+
+/* Scanlines très subtiles (texture papier vintage) */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    180deg,
+    transparent 0,
+    transparent 2px,
+    rgba(28, 33, 40, 0.025) 2px,
+    rgba(28, 33, 40, 0.025) 3px
+  );
+  z-index: 1000;
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+}
+
+a {
+  color: var(--ocean);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color var(--t-fast);
+}
+a:hover { border-bottom-color: var(--ocean); }
+
+h1, h2, h3, h4 {
+  margin: 0 0 var(--space-3);
+  font-family: var(--font-display);
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  color: var(--text-primary);
+}
+
+::selection {
+  background: var(--ocean-light);
+  color: var(--ocean-dim);
+}

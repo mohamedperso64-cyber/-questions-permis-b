@@ -1,0 +1,188 @@
+{
+  "_doc": "Lot 7 — enrichissement Q61 à Q70.",
+
+  "61": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, tous les sièges enfant sont compatibles depuis 2011.",
+        "Oui, à condition que le siège soit homologué CE.",
+        "Non, seuls les sièges du même constructeur que le véhicule."
+      ],
+      "mots_cles_memo": ["non", "compatibles"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["poitrine", "ventre", "expiration"]
+    }
+  },
+
+  "62": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["visibilité", "projection"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un saignement léger qui s'arrête de lui-même en quelques minutes.",
+        "Une bosse douloureuse qui apparaît après un choc violent.",
+        "Une coupure superficielle de la peau due à un objet tranchant."
+      ],
+      "mots_cles_memo": ["perte de sang", "prolongée", "imbibe"]
+    }
+  },
+
+  "63": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une fois par semaine.",
+        "Une fois tous les six mois, lors de l'entretien.",
+        "Une fois par an, lors du contrôle technique."
+      ],
+      "mots_cles_memo": ["tous les mois"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un évanouissement passager avec récupération spontanée.",
+        "Une douleur sévère à la poitrine sans perte de pouls.",
+        "Un ralentissement progressif du rythme cardiaque."
+      ],
+      "mots_cles_memo": ["cœur", "anarchique"]
+    }
+  },
+
+  "64": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Faciliter l'ouverture du capot par temps de gel.",
+        "Permettre l'aération automatique du compartiment moteur.",
+        "Sécuriser l'accès au moteur en cas de vol."
+      ],
+      "mots_cles_memo": ["empêcher", "ouverture", "circulation"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une perte temporaire de la sensibilité du membre touché.",
+        "Une chute brutale de la température corporelle.",
+        "Une crise convulsive due à la peur du saignement."
+      ],
+      "mots_cles_memo": ["détresse circulatoire", "arrêt cardiaque"]
+    }
+  },
+
+  "65": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Pour éviter l'amende lors d'un contrôle de police.",
+        "Pour assurer une portée maximale des phares.",
+        "Pour augmenter la durée de vie des ampoules."
+      ],
+      "mots_cles_memo": ["éblouir", "autres usagers"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["délimiter", "danger", "sur-accident"]
+    }
+  },
+
+  "66": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une décharge accélérée de la batterie du véhicule.",
+        "Un risque d'incendie au niveau du compartiment moteur.",
+        "Une dégradation rapide des balais d'essuie-glace."
+      ],
+      "mots_cles_memo": ["mauvaise visibilité", "pare-brise"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un appareil pour mesurer la pression artérielle d'une victime.",
+        "Un kit complet de premiers secours obligatoire dans les entreprises.",
+        "Une trousse à pharmacie spécialisée dans les chocs cardiaques."
+      ],
+      "mots_cles_memo": ["rétablir", "activité cardiaque"]
+    }
+  },
+
+  "67": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Mieux voir les objets sur la banquette arrière la nuit.",
+        "Détecter automatiquement les véhicules en approche.",
+        "Réduire la fatigue des yeux lors des longs trajets nocturnes."
+      ],
+      "mots_cles_memo": ["ébloui", "véhicule suiveur"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["SNA", "cycles", "fin d'alerte"]
+    }
+  },
+
+  "68": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["portière", "notice", "trappe"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["numéro", "sens", "kilométrique"]
+    }
+  },
+
+  "69": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsqu'ils émettent un grincement caractéristique.",
+        "Lorsqu'on remarque une décoloration de leur lame.",
+        "Lorsqu'ils consomment plus de liquide lave-glace."
+      ],
+      "mots_cles_memo": ["pluie", "traces", "pare-brise"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["poitrine", "ventre", "expiration"]
+    }
+  },
+
+  "70": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une surchauffe immédiate des disques de frein.",
+        "Un blocage des roues à grande vitesse.",
+        "Une perte de la direction assistée."
+      ],
+      "mots_cles_memo": ["perte d'efficacité", "freinage"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un casque de protection homologué.",
+        "Une couverture de survie aluminisée.",
+        "Une paire de gants épais antidérapants."
+      ],
+      "mots_cles_memo": ["gilet", "haute visibilité"]
+    }
+  }
+}

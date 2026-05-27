@@ -1,0 +1,168 @@
+{
+  "_doc": "Lot 2 — enrichissement Q11 à Q20.",
+
+  "11": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["moteur", "fumer", "téléphoner"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["latérale", "alerter", "surveiller"]
+    }
+  },
+
+  "12": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une réaction chimique dangereuse avec le métal du moteur.",
+        "Une projection d'eau bouillante par le radiateur.",
+        "Un dérèglement du thermostat moteur."
+      ],
+      "mots_cles_memo": ["brûlure"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["appuyer", "saigne", "tissu"]
+    }
+  },
+
+  "13": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une augmentation importante de la consommation électrique.",
+        "Une dégradation accélérée des essuie-glaces arrière.",
+        "Une condensation persistante sur le pare-brise avant."
+      ],
+      "mots_cles_memo": ["visibilité", "arrière"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["30", "virage", "côte"]
+    }
+  },
+
+  "14": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Le déclenchement automatique des feux de détresse.",
+        "Une surchauffe du circuit électrique des clignotants.",
+        "Une faible charge de la batterie du véhicule."
+      ],
+      "mots_cles_memo": ["ampoule", "non fonctionnement"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["visible", "atteindre", "gêner"]
+    }
+  },
+
+  "15": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Moteur chaud et véhicule en légère pente.",
+        "Moteur au ralenti pendant cinq minutes.",
+        "Juste après un long trajet, moteur en marche."
+      ],
+      "mots_cles_memo": ["moteur froid", "terrain plat"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["téléphone", "nature", "localisation"]
+    }
+  },
+
+  "16": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Par temps de pluie forte ou averse soudaine.",
+        "À l'aube et au crépuscule en zone rurale.",
+        "À tout moment hors agglomération la nuit."
+      ],
+      "mots_cles_memo": ["brouillard", "neige"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["portable", "fixe", "borne"]
+    }
+  },
+
+  "17": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "0,5 g/l, comme pour les conducteurs confirmés.",
+        "0,3 g/l, soit l'équivalent d'un demi-verre.",
+        "0,8 g/l, c'est-à-dire environ deux verres standard."
+      ],
+      "mots_cles_memo": ["0,2 g/l", "0 verre"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["alerter", "masser", "défibriller"]
+    }
+  },
+
+  "18": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["panne", "accident", "ralentissement"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Si la victime saigne abondamment mais reste consciente.",
+        "Si la victime ne respire plus et a perdu connaissance.",
+        "Si la victime se plaint mais peut encore bouger seule."
+      ],
+      "mots_cles_memo": ["ne répond pas", "ne réagit pas", "respire"]
+    }
+  },
+
+  "19": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["confort", "accessibilité", "visibilité", "airbags"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsque la victime se plaint et demande à être déplacée.",
+        "Lorsqu'il fait trop froid pour la laisser au sol.",
+        "Lorsque l'arrivée des secours est annoncée comme rapide."
+      ],
+      "mots_cles_memo": ["danger réel", "immédiat", "non contrôlable"]
+    }
+  },
+
+  "20": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["avertir", "danger", "avertisseur"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un casque de chantier homologué.",
+        "Une couverture de survie réfléchissante.",
+        "Une paire de gants techniques antidérapants."
+      ],
+      "mots_cles_memo": ["gilet", "haute visibilité"]
+    }
+  }
+}

@@ -1,0 +1,3354 @@
+[
+  {
+    "id": 1,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez la commande de réglage de hauteur des feux.",
+      "reponse": "Dispositif situé en général à gauche du volant.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Pourquoi doit-on régler la hauteur des feux ?",
+      "reponse": "Pour ne pas éblouir les autres usagers.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Pour mieux éclairer les panneaux de signalisation.",
+        "Pour adapter l'éclairage selon la vitesse du véhicule.",
+        "Pour économiser la batterie du véhicule."
+      ],
+      "mots_cles_memo": [
+        "éblouir",
+        "autres usagers"
+      ]
+    },
+    "secours": {
+      "question": "Comment et pourquoi protéger une zone de danger en cas d’accident de la route ?",
+      "reponse": "En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident.",
+      "mode": "libre",
+      "mots_cles": [
+        "délimiter",
+        "danger",
+        "sur-accident"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où s'effectue le remplissage du produit lave-glace.",
+      "reponse": "Le candidat ouvre le capot et montre le bocal. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Pourquoi est-il préférable d'utiliser un liquide spécial en hiver ?",
+      "reponse": "Pour éviter le gel du liquide.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Pour mieux dissoudre les insectes incrustés sur le pare-brise.",
+        "Pour augmenter la durée de vie des balais d'essuie-glace.",
+        "Pour limiter l'évaporation du produit par temps froid."
+      ],
+      "mots_cles_memo": [
+        "gel",
+        "liquide"
+      ]
+    },
+    "secours": {
+      "question": "Quels comportements adopter en cas de diffusion du signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) ?",
+      "reponse": "- Se mettre en sécurité. - S'informer grâce aux médias et sites internet des autorités dès que leur consultation est possible. - Respecter les consignes des autorités.",
+      "mode": "libre",
+      "mots_cles": [
+        "sécurité",
+        "informer",
+        "consignes"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "type": "VI",
+    "verif": {
+      "question": "Mettez le rétroviseur intérieur en position \"nuit\". Si le rétroviseur de l'accompagnateur gène la manipulation du dispositif, l'explication suffit.",
+      "reponse": "Si le véhicule possède un système automatique de mise en position \"nuit\" du rétroviseur intérieur, le candidat l'indique.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quel est l’intérêt de la position nuit ?",
+      "reponse": "Ne pas être ébloui par les feux du véhicule suiveur.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Améliorer la visibilité vers l'avant pendant la nuit.",
+        "Faciliter la conduite dans les tunnels.",
+        "Réduire la consommation électrique du rétroviseur."
+      ],
+      "mots_cles_memo": [
+        "ébloui",
+        "véhicule suiveur"
+      ]
+    },
+    "secours": {
+      "question": "Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ?",
+      "reponse": "Il se compose de deux codes distincts : - le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs. - Le signal de fin d’alerte, signal continu.",
+      "mode": "libre",
+      "mots_cles": [
+        "SNA",
+        "cycles",
+        "fin d'alerte"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état du flanc sur l'un des pneumatiques.",
+      "reponse": "En bon état (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Citez un endroit où l'on peut trouver les pressions préconisées pour les pneumatiques ?",
+      "reponse": "Elles sont indiquées : - soit sur une plaque sur une portière. - soit dans la notice d'utilisation du véhicule. - soit au niveau de la trappe à carburant.",
+      "mode": "libre",
+      "mots_cles": [
+        "portière",
+        "notice",
+        "trappe"
+      ]
+    },
+    "secours": {
+      "question": "Sur autoroute, comment indiquer avec précision les lieux de l’accident depuis un téléphone portable ?",
+      "reponse": "En indiquant le numéro de l’autoroute, le sens de circulation et le point kilométrique.",
+      "mode": "libre",
+      "mots_cles": [
+        "numéro",
+        "sens",
+        "kilométrique"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "type": "VI",
+    "verif": {
+      "question": "Faites fonctionner les essuie-glaces avants du véhicule sur la position la plus rapide.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Comment détecter leur usure en circulation ?",
+      "reponse": "En cas de pluie, lorsqu'ils laissent des traces sur le pare brise.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsqu'on entend un bruit anormal en les actionnant.",
+        "Lorsqu'on observe une fissure sur la lame en caoutchouc.",
+        "Lorsqu'ils ne reviennent plus à leur position de repos."
+      ],
+      "mots_cles_memo": [
+        "pluie",
+        "traces",
+        "pare-brise"
+      ]
+    },
+    "secours": {
+      "question": "Comment vérifier la respiration d’une victime ?",
+      "reponse": "Regarder si le ventre et la poitrine se soulèvent et sentir de l’air à l’expiration.",
+      "mode": "libre",
+      "mots_cles": [
+        "poitrine",
+        "ventre",
+        "expiration"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "type": "VE",
+    "verif": {
+      "question": "Vérifiez l'état et la propreté des plaques d'immatriculation.",
+      "reponse": "Vérification des plaques à l'avant et à l'arrière, propres et en bon état (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelles sont les précautions à prendre en cas d'installation d'un porte vélo ?",
+      "reponse": "La plaque d'immatriculation et les feux doivent être visibles.",
+      "mode": "libre",
+      "mots_cles": [
+        "plaque",
+        "feux",
+        "visibles"
+      ]
+    },
+    "secours": {
+      "question": "Qu’est ce qu’une perte de connaissance ?",
+      "reponse": "C’est lorsque la victime ne répond pas et ne réagit pas mais respire.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsque la victime saigne abondamment et perd ses forces.",
+        "Lorsque la victime ne respire plus et n'a plus de pouls.",
+        "Lorsque la victime est consciente mais ne peut plus parler."
+      ],
+      "mots_cles_memo": [
+        "ne répond pas",
+        "ne réagit pas",
+        "respire"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "type": "VI",
+    "verif": {
+      "question": "Vérifiez la présence du gilet de haute visibilité.",
+      "reponse": "Le candidat doit indiquer où il se trouve sans obligation de le sortir. Le terme \" gilet jaune\" peut être utilisé si le candidat ne comprend pas.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "En cas de panne ou d'accident, quel autre accessoire de sécurité est obligatoire ?",
+      "reponse": "Le triangle de pré-signalisation.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une trousse de secours homologuée.",
+        "Un extincteur de classe ABC.",
+        "Une lampe torche à LED autonome."
+      ],
+      "mots_cles_memo": [
+        "triangle",
+        "pré-signalisation"
+      ]
+    },
+    "secours": {
+      "question": "Si un dégagement d'urgence de la victime est nécessaire, où doit- elle être déplacée ?",
+      "reponse": "Dans un endroit suffisamment éloigné du danger et de ses conséquences.",
+      "mode": "qcm",
+      "distracteurs": [
+        "À l'intérieur du véhicule le plus proche pour la mettre à l'abri.",
+        "Sur le bord de la chaussée, près de la ligne blanche.",
+        "Vers le poste de secours le plus proche, même éloigné."
+      ],
+      "mots_cles_memo": [
+        "éloigné",
+        "danger",
+        "conséquences"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où s'effectue le contrôle du niveau du liquide de frein.",
+      "reponse": "Le candidat montre que le niveau est entre le mini et le maxi. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est la conséquence d'un niveau insuffisant du liquide de frein ?",
+      "reponse": "Une perte d'efficacité du freinage.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une surchauffe immédiate du moteur.",
+        "Un blocage complet du système d'embrayage.",
+        "Une accélération involontaire du véhicule."
+      ],
+      "mots_cles_memo": [
+        "perte d'efficacité",
+        "freinage"
+      ]
+    },
+    "secours": {
+      "question": "En cas de panne ou d’accident, quel équipement de sécurité doit être porté avant de quitter le véhicule ?",
+      "reponse": "Il faut porter le gilet de haute visibilité avant de sortir du véhicule. Le terme \" gilet jaune\" peut être utilisé par le candidat.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un casque de protection homologué.",
+        "Une paire de gants de chantier.",
+        "Des chaussures à coque métallique."
+      ],
+      "mots_cles_memo": [
+        "gilet",
+        "haute visibilité"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "type": "VI",
+    "verif": {
+      "question": "Vérifiez la présence du certificat d'immatriculation du véhicule (ou carte grise).",
+      "reponse": "La photocopie est acceptée.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quels sont les deux autres documents obligatoires à présenter en cas de contrôle par les forces de l'ordre ?",
+      "reponse": "L’attestation d'assurance et le permis de conduire.",
+      "mode": "libre",
+      "mots_cles": [
+        "assurance",
+        "permis"
+      ]
+    },
+    "secours": {
+      "question": "Pourquoi l’alerte auprès des services de secours doit-elle être rapide et précise ?",
+      "reponse": "Pour permettre aux services de secours d'apporter les moyens adaptés aux victimes dans le délai le plus court.",
+      "mode": "libre",
+      "mots_cles": [
+        "moyens",
+        "adaptés",
+        "délai"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état de tous les balais d'essuie-glace du véhicule.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quel est le risque de circuler avec des balais d'essuie glace défectueux ?",
+      "reponse": "Une mauvaise visibilité en cas d'intempéries.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un risque d'éblouissement par les phares adverses.",
+        "Une usure prématurée du pare-brise.",
+        "Un dysfonctionnement du chauffage de l'habitacle."
+      ],
+      "mots_cles_memo": [
+        "mauvaise visibilité",
+        "intempéries"
+      ]
+    },
+    "secours": {
+      "question": "Quels sont les numéros d’urgence à composer ?",
+      "reponse": "- Le 18, numéro d'appel des sapeurs-pompiers. - Le 15, numéro d'appel des SAMU. – Le 112, numéro de téléphone réservé aux appels d’urgence et valide dans l’ensemble de l’Union Européenne.",
+      "mode": "libre",
+      "mots_cles": [
+        "18",
+        "15",
+        "112"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez l'indicateur de niveau de carburant.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quelles sont les précautions à prendre lors du remplissage du réservoir ?",
+      "reponse": "Arrêter le moteur, ne pas fumer, ne pas téléphoner.",
+      "mode": "libre",
+      "mots_cles": [
+        "moteur",
+        "fumer",
+        "téléphoner"
+      ]
+    },
+    "secours": {
+      "question": "Quels comportements adopter en présence d'une victime qui ne répond pas et ne réagit pas, mais respire ?",
+      "reponse": "- La placer en position stable sur le côté ou position latérale de sécurité.\n- Alerter les secours.\n- Surveiller la respiration de la victime jusqu'à l'arrivée des secours.",
+      "mode": "libre",
+      "mots_cles": [
+        "latérale",
+        "alerter",
+        "surveiller"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où s'effectue le remplissage du liquide de refroidissement.",
+      "reponse": "Le candidat ouvre le capot et montre le bocal. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quel est le danger si l'on complète le niveau du liquide lorsque le moteur est chaud ?",
+      "reponse": "Un risque de brûlure.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une réaction chimique dangereuse avec le métal du moteur.",
+        "Une projection d'eau bouillante par le radiateur.",
+        "Un dérèglement du thermostat moteur."
+      ],
+      "mots_cles_memo": [
+        "brûlure"
+      ]
+    },
+    "secours": {
+      "question": "Comment arrêter une hémorragie ?",
+      "reponse": "En appuyant fortement sur l’endroit qui saigne avec les doigts ou avec la paume de la main en mettant un tissu propre sur la plaie.",
+      "mode": "libre",
+      "mots_cles": [
+        "appuyer",
+        "saigne",
+        "tissu"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "type": "VI",
+    "verif": {
+      "question": "Actionnez le dégivrage de la lunette arrière et montrez le voyant ou le repère correspondant.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quelle peut être la conséquence d'une panne de dégivrage de la lunette arrière ?",
+      "reponse": "Une insuffisance ou une absence de visibilité vers l'arrière.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une augmentation importante de la consommation électrique.",
+        "Une dégradation accélérée des essuie-glaces arrière.",
+        "Une condensation persistante sur le pare-brise avant."
+      ],
+      "mots_cles_memo": [
+        "visibilité",
+        "arrière"
+      ]
+    },
+    "secours": {
+      "question": "Hors autoroute ou endroit dangereux, en cas de panne ou d’accident, où doit être placé le triangle de pré-signalisation ?",
+      "reponse": "Le triangle de pré-signalisation doit être placé à une distance d’environ 30 m de la panne ou de l’accident, ou avant un virage, ou un sommet de côte.",
+      "mode": "libre",
+      "mots_cles": [
+        "30",
+        "virage",
+        "côte"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état, la propreté et le fonctionnement de tous les clignotants côté trottoir.",
+      "reponse": "Vérification des clignotants propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est la signification d'un clignotement plus rapide ?",
+      "reponse": "Non fonctionnement de l'une des ampoules.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Le déclenchement automatique des feux de détresse.",
+        "Une surchauffe du circuit électrique des clignotants.",
+        "Une faible charge de la batterie du véhicule."
+      ],
+      "mots_cles_memo": [
+        "ampoule",
+        "non fonctionnement"
+      ]
+    },
+    "secours": {
+      "question": "Quelles sont les conditions pour réaliser le dégagement d’urgence d’une victime en présence d’un danger réel, immédiat et non contrôlable ?",
+      "reponse": "La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûr(e) de pouvoir réaliser le dégagement de la victime.",
+      "mode": "libre",
+      "mots_cles": [
+        "visible",
+        "atteindre",
+        "gêner"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez le voyant d'alerte signalant une pression insuffisante d'huile dans le moteur.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quelles sont les conditions à respecter pour contrôler le niveau d'huile ?",
+      "reponse": "Moteur froid et sur un terrain plat.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Moteur chaud et véhicule en légère pente.",
+        "Moteur au ralenti pendant cinq minutes.",
+        "Juste après un long trajet, moteur en marche."
+      ],
+      "mots_cles_memo": [
+        "moteur froid",
+        "terrain plat"
+      ]
+    },
+    "secours": {
+      "question": "Quelles sont les trois informations à transmettre aux services de secours ?",
+      "reponse": "Le numéro de téléphone à partir duquel l’appel est émis, la nature et la localisation la plus précise du problème.",
+      "mode": "libre",
+      "mots_cles": [
+        "téléphone",
+        "nature",
+        "localisation"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état, la propreté et le fonctionnement du ou des feux de brouillard arrière.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Dans quels cas les utilise-t-on ?",
+      "reponse": "Par temps de brouillard et neige.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Par temps de pluie forte ou averse soudaine.",
+        "À l'aube et au crépuscule en zone rurale.",
+        "À tout moment hors agglomération la nuit."
+      ],
+      "mots_cles_memo": [
+        "brouillard",
+        "neige"
+      ]
+    },
+    "secours": {
+      "question": "Par quels moyens doit être réalisée l’alerte des secours ?",
+      "reponse": "L’alerte doit être donnée à l’aide d’un téléphone portable ou, à défaut, d’un téléphone fixe ou d’une borne d’appel d’urgence.",
+      "mode": "libre",
+      "mots_cles": [
+        "portable",
+        "fixe",
+        "borne"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "type": "VI",
+    "verif": {
+      "question": "Vérifiez la présence de l’éthylotest.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "A partir de quel taux d'alcoolémie, en période de permis probatoire, est-on en infraction ?",
+      "reponse": "0,2 g /l, c'est à dire 0 verre, car dès le 1er verre ce seuil peut être dépassé.",
+      "mode": "qcm",
+      "distracteurs": [
+        "0,5 g/l, comme pour les conducteurs confirmés.",
+        "0,3 g/l, soit l'équivalent d'un demi-verre.",
+        "0,8 g/l, c'est-à-dire environ deux verres standard."
+      ],
+      "mots_cles_memo": [
+        "0,2 g/l",
+        "0 verre"
+      ]
+    },
+    "secours": {
+      "question": "Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque ?",
+      "reponse": "- ALERTER: alerter immédiatement les secours. - MASSER: pratiquer une réanimation cardio-pulmonaire. - DEFIBRILLER: utiliser un défibrillateur automatique (DAE) si possible.",
+      "mode": "libre",
+      "mots_cles": [
+        "alerter",
+        "masser",
+        "défibriller"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de détresse à l'avant et à l'arrière.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Dans quels cas doit-on les utiliser ?",
+      "reponse": "En cas de panne, d’accident ou de ralentissement important.",
+      "mode": "libre",
+      "mots_cles": [
+        "panne",
+        "accident",
+        "ralentissement"
+      ]
+    },
+    "secours": {
+      "question": "Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS) ?",
+      "reponse": "Si la victime ne répond pas, ne réagit pas MAIS respire.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Si la victime saigne abondamment mais reste consciente.",
+        "Si la victime ne respire plus et a perdu connaissance.",
+        "Si la victime se plaint mais peut encore bouger seule."
+      ],
+      "mots_cles_memo": [
+        "ne répond pas",
+        "ne réagit pas",
+        "respire"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez la commande de réglage du volant.",
+      "reponse": "Le candidat montre l'emplacement. Il ne lui est pas demandé de changer son réglage.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Pourquoi est-il important de bien régler son volant ? Citez deux exemples.",
+      "reponse": "- Le confort de conduite. - L’accessibilité aux commandes. - La visibilité du tableau de bord. - L’efficacité des airbags.",
+      "mode": "libre",
+      "mots_cles": [
+        "confort",
+        "accessibilité",
+        "visibilité",
+        "airbags"
+      ]
+    },
+    "secours": {
+      "question": "Dans quelle situation peut-on déplacer une victime ?",
+      "reponse": "En présence d’un danger réel, immédiat, non contrôlable. Le déplacement de la victime doit rester exceptionnel.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsque la victime se plaint et demande à être déplacée.",
+        "Lorsqu'il fait trop froid pour la laisser au sol.",
+        "Lorsque l'arrivée des secours est annoncée comme rapide."
+      ],
+      "mots_cles_memo": [
+        "danger réel",
+        "immédiat",
+        "non contrôlable"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de route.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Citez un cas d'utilisation de l’appel lumineux.",
+      "reponse": "- Pour avertir de son approche. - En cas de danger. - A la place de l'avertisseur sonore.",
+      "mode": "libre",
+      "mots_cles": [
+        "avertir",
+        "danger",
+        "avertisseur"
+      ]
+    },
+    "secours": {
+      "question": "En cas de panne ou d’accident, quel équipement de sécurité doit être porté avant de quitter le véhicule ?",
+      "reponse": "Il faut porter le gilet de haute visibilité avant de sortir du véhicule. Le terme \" gilet jaune\" peut être utilisé par le candidat.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un casque de chantier homologué.",
+        "Une couverture de survie réfléchissante.",
+        "Une paire de gants techniques antidérapants."
+      ],
+      "mots_cles_memo": [
+        "gilet",
+        "haute visibilité"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "type": "VI",
+    "verif": {
+      "question": "Positionnez la commande pour diriger l'air vers le pare-brise.",
+      "reponse": "La position auto (désembuage automatique) peut être utilisée si le véhicule en est équipé.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Citez deux éléments complémentaires permettant un désembuage efficace.",
+      "reponse": "- La commande de vitesse de ventilation. - La commande d'air chaud. - La climatisation.",
+      "mode": "libre",
+      "mots_cles": [
+        "ventilation",
+        "air chaud",
+        "climatisation"
+      ]
+    },
+    "secours": {
+      "question": "Quel est l’objectif du Signal d’Alerte et d’Information des Populations (SAIP) ?",
+      "reponse": "Avertir la population d’un danger imminent ou qu’un événement grave est en train de se produire.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Informer les automobilistes des perturbations sur les routes.",
+        "Coordonner les actions des services de secours en cas d'accident.",
+        "Diffuser les messages d'urgence des organismes humanitaires."
+      ],
+      "mots_cles_memo": [
+        "avertir",
+        "danger imminent"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où doit s'effectuer le contrôle du niveau d'huile moteur.",
+      "reponse": "Le candidat montre la jauge. Pas de manipulation exigée. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quel est le principal risque d'un manque d'huile moteur ?",
+      "reponse": "Un risque de détérioration ou de casse du moteur.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une fuite massive d'huile sur la route.",
+        "Une augmentation brutale de la consommation de carburant.",
+        "Un déclenchement permanent du système ABS."
+      ],
+      "mots_cles_memo": [
+        "détérioration",
+        "casse moteur"
+      ]
+    },
+    "secours": {
+      "question": "Comment est diffusée l’alerte émise par le Signal d’Alerte et d’Information aux Populations (SAIP) ?",
+      "reponse": "Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l’application SAIP.",
+      "mode": "libre",
+      "mots_cles": [
+        "sirènes",
+        "médias",
+        "application"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez le voyant d'alerte signalant un défaut de batterie.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Qu'est-ce qui peut provoquer la décharge de la batterie, moteur éteint ?",
+      "reponse": "Les feux ou accessoires électriques en fonctionnement.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une exposition prolongée au froid en hiver.",
+        "L'âge avancé de la batterie et son usure naturelle.",
+        "Un mauvais contact des cosses de la batterie."
+      ],
+      "mots_cles_memo": [
+        "feux",
+        "accessoires électriques"
+      ]
+    },
+    "secours": {
+      "question": "A partir de quel âge peut-on suivre une formation aux premiers secours ?",
+      "reponse": "A partir de 10 ans.",
+      "mode": "qcm",
+      "distracteurs": [
+        "À partir de 7 ans, dès la fin de l'école primaire.",
+        "À partir de 14 ans, comme pour le BAFA.",
+        "À partir de 16 ans, en même temps que l'ASSR2."
+      ],
+      "mots_cles_memo": [
+        "10 ans"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez l'emplacement de la batterie du véhicule.",
+      "reponse": "Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est la solution en cas de panne de batterie pour démarrer le véhicule sans le déplacer ?",
+      "reponse": "Brancher une deuxième batterie en parallèle (ou les \"+\" ensemble et les \"-\" ensemble) ou la remplacer.",
+      "mode": "libre",
+      "mots_cles": [
+        "parallèle",
+        "remplacer"
+      ]
+    },
+    "secours": {
+      "question": "Pourquoi faut-il pratiquer immédiatement une réanimation cardio-pulmonaire sur une victime en arrêt cardiaque ?",
+      "reponse": "Car les lésions du cerveau, surviennent dès les premières minutes.",
+      "mode": "libre",
+      "mots_cles": [
+        "lésions",
+        "cerveau",
+        "minutes"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "type": "VI",
+    "verif": {
+      "question": "De quelle couleur est le voyant qui indique une défaillance du système de freinage ?",
+      "reponse": "Rouge.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Orange.",
+        "Jaune.",
+        "Vert."
+      ],
+      "mots_cles_memo": [
+        "rouge"
+      ]
+    },
+    "qser": {
+      "question": "Quel est le risque de circuler avec un frein de parking mal desserré ?",
+      "reponse": "Une dégradation du système de freinage.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une surchauffe importante du moteur en circulation.",
+        "Une perte d'adhérence des roues arrière.",
+        "Un dysfonctionnement de la transmission automatique."
+      ],
+      "mots_cles_memo": [
+        "dégradation",
+        "freinage"
+      ]
+    },
+    "secours": {
+      "question": "Hors autoroute ou endroit dangereux, en cas de panne ou d’accident, où doit être placé le triangle de pré-signalisation ?",
+      "reponse": "Le triangle de pré-signalisation doit être placé à une distance d’environ 30 m de la panne ou de l’accident, ou avant un virage, ou un sommet de côte.",
+      "mode": "libre",
+      "mots_cles": [
+        "30",
+        "virage",
+        "côte"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de croisement.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelles sont les conséquences d'un mauvais réglage de ces feux ?",
+      "reponse": "Une mauvaise vision vers l'avant et un risque d'éblouissement des autres usagers.",
+      "mode": "libre",
+      "mots_cles": [
+        "vision",
+        "éblouissement"
+      ]
+    },
+    "secours": {
+      "question": "Dans quelle situation peut-on déplacer une victime ?",
+      "reponse": "En présence d’un danger réel, immédiat, non contrôlable. Le déplacement de la victime doit rester exceptionnel.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsqu'il pleut et qu'il y a un risque d'hypothermie.",
+        "Lorsque la circulation gêne l'intervention des secours.",
+        "Lorsque la victime semble très anxieuse au sol."
+      ],
+      "mots_cles_memo": [
+        "danger réel",
+        "immédiat",
+        "non contrôlable"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez le voyant d'alerte signalant une température trop élevée du liquide de refroidissement.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quelle est la conséquence d'une température trop élevée de ce liquide ?",
+      "reponse": "Une surchauffe ou une casse moteur.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un blocage du démarreur électrique.",
+        "Une fuite généralisée du liquide hydraulique.",
+        "Un arrêt complet des essuie-glaces."
+      ],
+      "mots_cles_memo": [
+        "surchauffe",
+        "casse moteur"
+      ]
+    },
+    "secours": {
+      "question": "Lors d’un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ?",
+      "reponse": "Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu’à l’arrivée des secours.",
+      "mode": "libre",
+      "mots_cles": [
+        "conseiller",
+        "guider",
+        "gestes"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "type": "VE",
+    "verif": {
+      "question": "Vérifiez l'état et la propreté des dispositifs réfléchissants.",
+      "reponse": "Vérification des dispositifs, propres et en bon état (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est l'utilité des dispositifs réfléchissants ?",
+      "reponse": "Rendre visible le véhicule la nuit.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Protéger la carrosserie des rayures et impacts.",
+        "Améliorer l'aérodynamisme du véhicule.",
+        "Réduire la consommation de carburant la nuit."
+      ],
+      "mots_cles_memo": [
+        "visible",
+        "nuit"
+      ]
+    },
+    "secours": {
+      "question": "A quel moment pouvez-vous mettre fin à un appel avec les secours ?",
+      "reponse": "Uniquement lorsque notre correspondant nous invite à le faire.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Quand on a transmis toutes les informations utiles.",
+        "Quand les secours sont visibles sur les lieux.",
+        "Quand la victime est stabilisée et hors de danger."
+      ],
+      "mots_cles_memo": [
+        "correspondant",
+        "invite"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez le voyant signalant la mauvaise fermeture d'une portière.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quelle précaution dois-je prendre pour que les enfants installés à l'arrière ne puissent pas ouvrir leur portière ?",
+      "reponse": "Actionner la sécurité enfant sur les deux portières arrière.",
+      "mode": "libre",
+      "mots_cles": [
+        "sécurité enfant",
+        "arrière"
+      ]
+    },
+    "secours": {
+      "question": "Citez les trois manières d’évaluer l’état de conscience d’une victime.",
+      "reponse": "- Lui poser des questions simples (\"comment ça va ?\", \"vous m'entendez ?\"). - Lui secouer doucement les épaules. - Lui prendre la main en lui demandant d'exécuter un geste simple (\"serrez-moi la main\").",
+      "mode": "libre",
+      "mots_cles": [
+        "questions",
+        "épaules",
+        "main"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de position à l'avant et à l'arrière du véhicule.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Par temps clair, à quelle distance doivent-ils être visibles ?",
+      "reponse": "A 150 mètres.",
+      "mode": "qcm",
+      "distracteurs": [
+        "À 50 mètres.",
+        "À 100 mètres.",
+        "À 200 mètres."
+      ],
+      "mots_cles_memo": [
+        "150 mètres"
+      ]
+    },
+    "secours": {
+      "question": "Quels sont les risques pour une personne en perte de connaissance qui est allongée sur le dos ?",
+      "reponse": "L’arrêt respiratoire et l’arrêt cardiaque.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une déshydratation rapide et une perte de chaleur.",
+        "Une compression des membres provoquant des engourdissements.",
+        "Une crise d'anxiété et de panique au réveil."
+      ],
+      "mots_cles_memo": [
+        "arrêt respiratoire",
+        "arrêt cardiaque"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "type": "VI",
+    "verif": {
+      "question": "Actionnez les feux de détresse.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quand les utilise-t-on ?",
+      "reponse": "En cas de panne, d’accident ou de ralentissement important.",
+      "mode": "libre",
+      "mots_cles": [
+        "panne",
+        "accident",
+        "ralentissement"
+      ]
+    },
+    "secours": {
+      "question": "Quels comportements adopter en cas de diffusion du signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) ?",
+      "reponse": "- Se mettre en sécurité. - S'informer grâce aux médias et sites internet des autorités dès que leur consultation est possible. - Respecter les consignes des autorités.",
+      "mode": "libre",
+      "mots_cles": [
+        "sécurité",
+        "informer",
+        "consignes"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "type": "VE",
+    "verif": {
+      "question": "Sur le flanc d’un pneumatique, désignez le repère du témoin d'usure de la bande de roulement.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Qu'est-ce que l'aquaplanage, et quelle peut être sa conséquence ?",
+      "reponse": "La présence d'un film d'eau entre le pneumatique et la chaussée pouvant entraîner une perte de contrôle du véhicule.",
+      "mode": "libre",
+      "mots_cles": [
+        "film",
+        "eau",
+        "contrôle"
+      ]
+    },
+    "secours": {
+      "question": "Si un dégagement d'urgence de la victime est nécessaire, où doit- elle être déplacée ?",
+      "reponse": "Dans un endroit suffisamment éloigné du danger et de ses conséquences.",
+      "mode": "qcm",
+      "distracteurs": [
+        "À l'intérieur du véhicule le plus proche pour la mettre à l'abri.",
+        "Sur le bord de la chaussée, près de la ligne blanche.",
+        "Vers un endroit isolé, à l'écart des regards des autres usagers."
+      ],
+      "mots_cles_memo": [
+        "éloigné",
+        "danger",
+        "conséquences"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez la commande permettant d’actionner le régulateur de vitesse.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Sans actionner la commande du régulateur, comment le désactiver rapidement ?",
+      "reponse": "En appuyant sur la pédale de frein ou d'embrayage.",
+      "mode": "qcm",
+      "distracteurs": [
+        "En tournant le volant brusquement vers la droite.",
+        "En tirant fortement sur le frein à main.",
+        "En passant immédiatement en marche arrière."
+      ],
+      "mots_cles_memo": [
+        "frein",
+        "embrayage"
+      ]
+    },
+    "secours": {
+      "question": "Sur autoroute, comment indiquer avec précision les lieux de l’accident depuis un téléphone portable ?",
+      "reponse": "En indiquant le numéro de l’autoroute, le sens de circulation et le point kilométrique.",
+      "mode": "libre",
+      "mots_cles": [
+        "numéro",
+        "sens",
+        "kilométrique"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "type": "VE",
+    "verif": {
+      "question": "Ouvrez la trappe à carburant et/ou vérifiez la bonne fermeture du bouchon.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelles sont les précautions à prendre lors du remplissage du réservoir ?",
+      "reponse": "Arrêter le moteur, ne pas fumer, ne pas téléphoner.",
+      "mode": "libre",
+      "mots_cles": [
+        "moteur",
+        "fumer",
+        "téléphoner"
+      ]
+    },
+    "secours": {
+      "question": "Pourquoi l’alerte auprès des services de secours doit-elle être rapide et précise ?",
+      "reponse": "Pour permettre aux services de secours d'apporter les moyens adaptés aux victimes dans le délai le plus court.",
+      "mode": "libre",
+      "mots_cles": [
+        "moyens",
+        "adaptés",
+        "délai"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "type": "VI",
+    "verif": {
+      "question": "Sans l'actionner, montrez la commande de l'avertisseur sonore.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Dans quel cas peut-on utiliser l'avertisseur sonore en agglomération ?",
+      "reponse": "En cas de danger immédiat.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Pour saluer les autres conducteurs que l'on connaît.",
+        "Pour signaler son impatience dans un embouteillage.",
+        "Pour rappeler la priorité à un piéton qui hésite à traverser."
+      ],
+      "mots_cles_memo": [
+        "danger immédiat"
+      ]
+    },
+    "secours": {
+      "question": "Pourquoi ne faut-il pas laisser une personne en perte de connaissance allongée sur le dos ?",
+      "reponse": "Car elle risque un étouffement par : - Des liquides présents dans la gorge. - La chute de la langue en arrière.",
+      "mode": "libre",
+      "mots_cles": [
+        "étouffement",
+        "liquides",
+        "langue"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où s'effectue le remplissage de l'huile moteur.",
+      "reponse": "Le candidat montre le bouchon de remplissage. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quel est le risque d'un manque d'huile moteur ?",
+      "reponse": "Un risque de détérioration ou de casse du moteur.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une fuite généralisée du circuit hydraulique.",
+        "Un blocage du démarreur électrique.",
+        "Une surconsommation de carburant constante."
+      ],
+      "mots_cles_memo": [
+        "détérioration",
+        "casse moteur"
+      ]
+    },
+    "secours": {
+      "question": "L’utilisation d’un Défibrillateur Automatisé (DAE) sur une victime qui n’est pas en arrêt cardiaque présente-t-elle un risque ?",
+      "reponse": "Non, car le défibrillateur se déclenche uniquement quand la victime est en arrêt cardiaque.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, l'appareil peut provoquer un infarctus chez la victime.",
+        "Oui, le défibrillateur libère toujours une décharge électrique.",
+        "Oui, le DAE est strictement réservé aux professionnels de santé."
+      ],
+      "mots_cles_memo": [
+        "non",
+        "déclenche",
+        "arrêt cardiaque"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez la commande permettant de désactiver l'airbag du passager avant.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Dans quelle situation doit-on le désactiver ?",
+      "reponse": "Lors du transport d'un enfant à l'avant dans un siège auto, dos à la route.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Lors d'un trajet sur autoroute avec un passager adulte fragile.",
+        "Lorsque l'on transporte un objet volumineux sur le siège passager.",
+        "Pendant un long trajet de nuit pour ne pas être surpris par le déclenchement."
+      ],
+      "mots_cles_memo": [
+        "enfant",
+        "dos à la route"
+      ]
+    },
+    "secours": {
+      "question": "Quelles sont les conditions pour réaliser le dégagement d’urgence d’une victime en présence d’un danger réel, immédiat et non contrôlable ?",
+      "reponse": "La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûr(e) de pouvoir réaliser le dégagement de la victime.",
+      "mode": "libre",
+      "mots_cles": [
+        "visible",
+        "atteindre",
+        "gêner"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "type": "VE",
+    "verif": {
+      "question": "A l'aide de la plaque indicative, donnez la pression préconisée pour les pneumatiques arrières, véhicule chargé.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "A quelle fréquence est-il préconisé de vérifier la pression des pneus ?",
+      "reponse": "Chaque mois, pour une utilisation normale de son véhicule, et avant chaque long trajet.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une fois par an, lors du contrôle technique.",
+        "Uniquement avant chaque long trajet sur autoroute.",
+        "Tous les trois mois, lors de chaque vidange."
+      ],
+      "mots_cles_memo": [
+        "chaque mois",
+        "long trajet"
+      ]
+    },
+    "secours": {
+      "question": "Comment et pourquoi protéger une zone de danger en cas d’accident de la route ?",
+      "reponse": "En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident.",
+      "mode": "libre",
+      "mots_cles": [
+        "délimiter",
+        "danger",
+        "sur-accident"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez le voyant signalant l'absence de bouclage de la ceinture de sécurité du conducteur.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "En règle générale, à partir de quel âge un enfant peut-il être installé sur le siège passager avant du véhicule ?",
+      "reponse": "10 ans.",
+      "mode": "qcm",
+      "distracteurs": [
+        "À partir de 7 ans, dès la fin de l'école primaire.",
+        "À partir de 12 ans, comme à l'arrière sans rehausseur.",
+        "À partir de 14 ans, avec une signature parentale."
+      ],
+      "mots_cles_memo": [
+        "10 ans"
+      ]
+    },
+    "secours": {
+      "question": "Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ?",
+      "reponse": "Il se compose de deux codes distincts : - Le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs. - Le signal de fin d’alerte, signal continu.",
+      "mode": "libre",
+      "mots_cles": [
+        "SNA",
+        "cycles",
+        "fin d'alerte"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "type": "VE",
+    "verif": {
+      "question": "Vérifiez le fonctionnement de l'éclairage de la plaque d'immatriculation à l'arrière.",
+      "reponse": "Toute anomalie doit être signalée.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Un défaut d'éclairage de la plaque lors du contrôle technique entraîne-t-il une contre-visite ?",
+      "reponse": "Oui.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Non, c'est uniquement un avertissement sans contre-visite.",
+        "Non, seul l'éclairage avant peut entraîner une contre-visite.",
+        "Non, mais cela donne lieu à une amende forfaitaire."
+      ],
+      "mots_cles_memo": [
+        "oui"
+      ]
+    },
+    "secours": {
+      "question": "Quelles sont les trois informations à transmettre aux services de secours ?",
+      "reponse": "Le numéro de téléphone à partir duquel l’appel est émis, la nature et la localisation la plus précise du problème.",
+      "mode": "libre",
+      "mots_cles": [
+        "téléphone",
+        "nature",
+        "localisation"
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "type": "VI",
+    "verif": {
+      "question": "Vérifiez la présence de l'attestation d'assurance du véhicule et de sa vignette sur le pare-brise.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quels sont les deux autres documents obligatoires à présenter en cas de contrôle par les forces de l'ordre ?",
+      "reponse": "Le certificat d'immatriculation et le permis de conduire. Le terme « carte grise » est accepté.",
+      "mode": "libre",
+      "mots_cles": [
+        "immatriculation",
+        "permis"
+      ]
+    },
+    "secours": {
+      "question": "Qu’est ce qu’une hémorragie ?",
+      "reponse": "C’est une perte de sang prolongée qui ne s’arrête pas. Elle imbibe de sang un mouchoir en quelques secondes.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une douleur intense au niveau d'une blessure profonde.",
+        "Une perte de connaissance soudaine sans cause apparente.",
+        "Un saignement léger et superficiel qui s'arrête de lui-même."
+      ],
+      "mots_cles_memo": [
+        "perte de sang",
+        "prolongée",
+        "imbibe"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "type": "VE",
+    "verif": {
+      "question": "Indiquez où se situe la sécurité enfant sur l'une des portières à l’arrière du véhicule.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Si la sécurité enfant est enclenchée, est-il possible d'ouvrir la portière arrière depuis l'extérieur ?",
+      "reponse": "Oui.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Non, la sécurité enfant bloque les deux côtés.",
+        "Non, l'ouverture n'est possible qu'avec la clé électronique.",
+        "Cela dépend du modèle et de l'année du véhicule."
+      ],
+      "mots_cles_memo": [
+        "oui"
+      ]
+    },
+    "secours": {
+      "question": "Quels sont les risques pour une personne victime d’une hémorragie ?",
+      "reponse": "Entraîner pour la victime une détresse circulatoire ou un arrêt cardiaque.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une perte de motricité dans le membre concerné.",
+        "Une infection rapide de la zone blessée.",
+        "Une déshydratation prolongée nécessitant une perfusion."
+      ],
+      "mots_cles_memo": [
+        "détresse circulatoire",
+        "arrêt cardiaque"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "type": "VI",
+    "verif": {
+      "question": "Allumez le(s) feu(x) de brouillard arrière(s) et montrez le voyant correspondant.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Pouvez-vous les utiliser par forte pluie ?",
+      "reponse": "Non.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, ils améliorent la visibilité dans les fortes averses.",
+        "Oui, à condition de rouler à allure modérée.",
+        "Cela dépend du modèle et de l'équipement du véhicule."
+      ],
+      "mots_cles_memo": [
+        "non"
+      ]
+    },
+    "secours": {
+      "question": "Quels sont les signes d’un arrêt cardiaque ?",
+      "reponse": "La victime ne répond pas, ne réagit pas et ne respire pas ou présente une respiration anormale.",
+      "mode": "qcm",
+      "distracteurs": [
+        "La victime respire normalement mais reste totalement immobile.",
+        "La victime saigne abondamment et a perdu connaissance.",
+        "La victime se plaint d'une douleur intense à la poitrine."
+      ],
+      "mots_cles_memo": [
+        "ne respire pas",
+        "anormale"
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "type": "VE",
+    "verif": {
+      "question": "Avec l'assistance de l'accompagnateur, contrôlez l'état, la propreté et le fonctionnement du ou des feux de recul.",
+      "reponse": "Vérification des feux, propres, en bon état et qui fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelles sont leurs deux utilités ?",
+      "reponse": "- Éclairer la zone de recul la nuit. - Avertir les autres usagers de la manœuvre.",
+      "mode": "libre",
+      "mots_cles": [
+        "éclairer",
+        "avertir"
+      ]
+    },
+    "secours": {
+      "question": "Qu’est ce qu’un défibrillateur automatisé externe (DAE) ?",
+      "reponse": "C’est un appareil qui peut permettre de rétablir une activité cardiaque normale à une victime en arrêt cardiaque.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un appareil de mesure de la tension artérielle automatisé.",
+        "Un dispositif portable pour pratiquer un massage cardiaque.",
+        "Un équipement réservé aux pompiers et professionnels de santé."
+      ],
+      "mots_cles_memo": [
+        "rétablir",
+        "activité cardiaque"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez comment régler la hauteur de l'appui-tête du siège conducteur.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quelle est son utilité ?",
+      "reponse": "Permet de retenir le mouvement de la tête en cas de choc et de limiter les blessures.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Améliorer le confort lors des longs trajets.",
+        "Servir de support pour les passagers qui dorment.",
+        "Régler automatiquement la position du siège."
+      ],
+      "mots_cles_memo": [
+        "mouvement",
+        "tête",
+        "blessures"
+      ]
+    },
+    "secours": {
+      "question": "Par quels moyens doit être réalisée l’alerte des secours ?",
+      "reponse": "L’alerte doit être donnée à l’aide d’un téléphone portable ou, à défaut, d’un téléphone fixe, ou d’une borne d’appel d’urgence.",
+      "mode": "libre",
+      "mots_cles": [
+        "portable",
+        "fixe",
+        "borne"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "type": "VE",
+    "verif": {
+      "question": "Avec l'assistance de l'accompagnateur, contrôlez l'état, la propreté et le fonctionnement des feux de stop.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est la conséquence en cas de panne des feux de stop ?",
+      "reponse": "Un manque d'information pour les usagers suiveurs et un risque de collision.",
+      "mode": "libre",
+      "mots_cles": [
+        "information",
+        "collision"
+      ]
+    },
+    "secours": {
+      "question": "Lors d’un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ?",
+      "reponse": "Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu’à l’arrivée des secours.",
+      "mode": "libre",
+      "mots_cles": [
+        "conseiller",
+        "guider",
+        "gestes"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "type": "VI",
+    "verif": {
+      "question": "De quelle couleur est le voyant qui indique au conducteur que le feu de brouillard arrière est allumé ?",
+      "reponse": "Orange.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Rouge.",
+        "Jaune.",
+        "Vert."
+      ],
+      "mots_cles_memo": [
+        "orange"
+      ]
+    },
+    "qser": {
+      "question": "Quelle est la différence entre un voyant orange et un voyant rouge ?",
+      "reponse": "- Rouge : Une anomalie de fonctionnement ou un danger. - Orange : un élément important.",
+      "mode": "libre",
+      "mots_cles": [
+        "danger",
+        "important"
+      ]
+    },
+    "secours": {
+      "question": "Qu’est ce qu’un arrêt cardiaque ?",
+      "reponse": "Le cœur ne fonctionne plus ou fonctionne d’une façon anarchique.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Le cœur bat très lentement mais reste régulier.",
+        "Une douleur intense à la poitrine qui irradie dans le bras.",
+        "Une élévation brutale de la tension artérielle."
+      ],
+      "mots_cles_memo": [
+        "cœur",
+        "anarchique"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "type": "VE",
+    "verif": {
+      "question": "Ouvrez et refermez le capot, puis vérifiez sa bonne fermeture.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "En roulant, quel est le risque d'une mauvaise fermeture du capot ?",
+      "reponse": "Un risque d'ouverture du capot pouvant entraîner un accident.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une augmentation importante de la consommation de carburant.",
+        "Un déclenchement intempestif des feux de détresse.",
+        "Une surchauffe du moteur due à l'aspiration d'air."
+      ],
+      "mots_cles_memo": [
+        "ouverture",
+        "accident"
+      ]
+    },
+    "secours": {
+      "question": "Quel est le risque principal d’un arrêt cardiaque sans intervention des secours ?",
+      "reponse": "La mort de la victime qui survient en quelques minutes.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Des séquelles neurologiques sévères mais réversibles.",
+        "Un coma profond qui peut durer plusieurs jours.",
+        "Une paralysie partielle du côté gauche du corps."
+      ],
+      "mots_cles_memo": [
+        "mort",
+        "minutes"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez la commande de recyclage de l'air.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quel peut être le risque de maintenir le recyclage de l’air de manière prolongée ?",
+      "reponse": "Un risque de mauvaise visibilité par l’apparition de buée sur les surfaces vitrées.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une intoxication au monoxyde de carbone dans l'habitacle.",
+        "Une surchauffe du moteur due au manque de ventilation.",
+        "Une dégradation prématurée du filtre à pollen."
+      ],
+      "mots_cles_memo": [
+        "buée",
+        "visibilité"
+      ]
+    },
+    "secours": {
+      "question": "Quels sont les risques pour une personne en perte de connaissance qui est allongée sur le dos ?",
+      "reponse": "L’arrêt respiratoire et l’arrêt cardiaque.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une déshydratation rapide en quelques minutes.",
+        "Une compression des nerfs entraînant une paralysie.",
+        "Une chute de tension artérielle prolongée."
+      ],
+      "mots_cles_memo": [
+        "arrêt respiratoire",
+        "arrêt cardiaque"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez l'orifice de remplissage du produit lave-glace.",
+      "reponse": "Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quel est le principal risque d'une absence de liquide lave-glace ?",
+      "reponse": "Une mauvaise visibilité.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une usure prématurée des balais d'essuie-glace.",
+        "Un risque de fissure du pare-brise par frottement.",
+        "Une dégradation du moteur du système de lavage."
+      ],
+      "mots_cles_memo": [
+        "mauvaise visibilité"
+      ]
+    },
+    "secours": {
+      "question": "Pourquoi faut-il pratiquer immédiatement une réanimation cardio-pulmonaire sur une victime en arrêt cardiaque ?",
+      "reponse": "Car les lésions du cerveau surviennent dès les premières minutes.",
+      "mode": "libre",
+      "mots_cles": [
+        "lésions",
+        "cerveau",
+        "minutes"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "type": "VI",
+    "verif": {
+      "question": "Allumez les feux de route et montrez le voyant correspondant.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quel est le risque de maintenir les feux de route lors d'un croisement avec d'autres usagers ?",
+      "reponse": "Un risque d'éblouissement des autres usagers.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une surchauffe des phares due à leur usage prolongé.",
+        "Une décharge accélérée de la batterie du véhicule.",
+        "Une amende automatique en cas de croisement avec une voiture radar."
+      ],
+      "mots_cles_memo": [
+        "éblouissement",
+        "autres usagers"
+      ]
+    },
+    "secours": {
+      "question": "Quel est l’objectif du Signal d’Alerte et d’Information des Populations (SAIP) ?",
+      "reponse": "Avertir la population d’un danger imminent ou qu’un événement grave est en train de se produire.",
+      "mode": "libre",
+      "mots_cles": [
+        "population",
+        "danger",
+        "imminent"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "type": "VE",
+    "verif": {
+      "question": "Vérifiez l'état, la propreté et le fonctionnement des feux diurnes.",
+      "reponse": "Vérification des feux, propres, en bon état et qui fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est leur utilité ?",
+      "reponse": "Rendre le véhicule plus visible le jour.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Compenser l'usure naturelle des feux de croisement.",
+        "Économiser de l'énergie en circulation urbaine.",
+        "Remplacer les feux de position lorsqu'ils tombent en panne."
+      ],
+      "mots_cles_memo": [
+        "visible",
+        "jour"
+      ]
+    },
+    "secours": {
+      "question": "A quel moment pouvez-vous mettre fin à un appel avec les secours ?",
+      "reponse": "Uniquement lorsque notre correspondant nous invite à le faire.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Quand on a fini de décrire la situation à l'opérateur.",
+        "Quand on entend la sirène des secours s'approcher.",
+        "Quand on doit s'occuper d'urgence de la victime."
+      ],
+      "mots_cles_memo": [
+        "correspondant",
+        "invite"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "type": "VI",
+    "verif": {
+      "question": "Vérifiez la présence du constat amiable dans le véhicule.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "En cas d'accident, dans quel délai doit-il être transmis à l'assureur ?",
+      "reponse": "5 jours.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Dans les 24 heures suivant l'accident.",
+        "Dans les 48 heures suivant l'accident.",
+        "Dans un délai de 15 jours maximum."
+      ],
+      "mots_cles_memo": [
+        "5 jours"
+      ]
+    },
+    "secours": {
+      "question": "Quel est le risque principal d’un arrêt cardiaque sans intervention des secours ?",
+      "reponse": "La mort de la victime qui survient en quelques minutes.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une perte de mémoire permanente après réanimation.",
+        "Une paralysie progressive des membres inférieurs.",
+        "Une dégradation lente sur plusieurs heures avant intervention."
+      ],
+      "mots_cles_memo": [
+        "mort",
+        "minutes"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "type": "VE",
+    "verif": {
+      "question": "Vérifiez la présence du triangle de pré-signalisation.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Utilise-t-on le triangle de pré-signalisation sur autoroute ?",
+      "reponse": "Non.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, à au moins 100 m derrière le véhicule.",
+        "Oui, mais uniquement de jour.",
+        "Cela dépend de la portion d'autoroute concernée."
+      ],
+      "mots_cles_memo": [
+        "non"
+      ]
+    },
+    "secours": {
+      "question": "Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque ?",
+      "reponse": "- ALERTER: alerter immédiatement les secours. - MASSER: pratiquer une réanimation cardio-pulmonaire. - DEFIBRILLER: utiliser un défibrillateur automatique (DAE) si possible.",
+      "mode": "libre",
+      "mots_cles": [
+        "alerter",
+        "masser",
+        "défibriller"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "type": "VI",
+    "verif": {
+      "question": "De quelle couleur est le voyant qui indique une défaillance du système de freinage.",
+      "reponse": "Rouge.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Orange.",
+        "Jaune.",
+        "Vert."
+      ],
+      "mots_cles_memo": [
+        "rouge"
+      ]
+    },
+    "qser": {
+      "question": "Quel est le risque de circuler avec un frein de parking mal desserré ?",
+      "reponse": "Une dégradation du système de freinage.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une augmentation de la consommation de carburant.",
+        "Un blocage du système de transmission automatique.",
+        "Une décharge rapide de la batterie en circulation."
+      ],
+      "mots_cles_memo": [
+        "dégradation",
+        "freinage"
+      ]
+    },
+    "secours": {
+      "question": "Comment arrêter une hémorragie ?",
+      "reponse": "En appuyant fortement sur l’endroit qui saigne avec les doigts ou avec la paume de la main en mettant un tissu propre sur la plaie.",
+      "mode": "libre",
+      "mots_cles": [
+        "appuyer",
+        "saigne",
+        "tissu"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où s'effectue le changement d'une ampoule à l'avant du véhicule.",
+      "reponse": "Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelles sont les conséquences en cas de panne d'un feu de croisement ?",
+      "reponse": "Une mauvaise visibilité et le risque d'être confondu avec un deux roues.",
+      "mode": "libre",
+      "mots_cles": [
+        "visibilité",
+        "deux roues"
+      ]
+    },
+    "secours": {
+      "question": "Citez les trois manières d’évaluer l’état de conscience d’une victime ?",
+      "reponse": "- Lui poser des questions simples (\"comment ça va ?\", \"vous m'entendez ?\"). - Lui secouer doucement les épaules. - Lui prendre la main en lui demandant d'exécuter un geste simple (\"serrez-moi la main\").",
+      "mode": "libre",
+      "mots_cles": [
+        "questions",
+        "épaules",
+        "main"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "type": "VI",
+    "verif": {
+      "question": "Si le véhicule en est équipé, montrez la commande du limiteur de vitesse.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quelle est l'utilité d'un limiteur de vitesse ?",
+      "reponse": "Ne pas dépasser la vitesse programmée par le conducteur.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Maintenir automatiquement la vitesse choisie par le conducteur.",
+        "Couper le moteur en cas d'excès de vitesse trop important.",
+        "Adapter la vitesse en fonction des limitations affichées."
+      ],
+      "mots_cles_memo": [
+        "pas dépasser",
+        "vitesse programmée"
+      ]
+    },
+    "secours": {
+      "question": "Quels sont les numéros d’urgence à appeler ?",
+      "reponse": "- Le 18, numéro d'appel des sapeurs-pompiers. - Le 15, numéro d'appel des SAMU. – Le 112, numéro de téléphone réservé aux appels d’urgence et valide dans l’ensemble de l’Union Européenne.",
+      "mode": "libre",
+      "mots_cles": [
+        "18",
+        "15",
+        "112"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où s'effectue le changement d'une ampoule à l'arrière du véhicule.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelles sont les conséquences en cas de panne d'un feu de position arrière ?",
+      "reponse": "Être mal vu et un risque de collision.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une amende immédiate au prochain contrôle technique.",
+        "Une surchauffe des autres ampoules du véhicule.",
+        "Une perte de visibilité du tableau de bord la nuit."
+      ],
+      "mots_cles_memo": [
+        "mal vu",
+        "collision"
+      ]
+    },
+    "secours": {
+      "question": "Comment est diffusée l’alerte émise par le Signal d’Alerte et d’Information aux Populations (SAIP) ?",
+      "reponse": "Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l’application SAIP.",
+      "mode": "libre",
+      "mots_cles": [
+        "sirènes",
+        "médias",
+        "application"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "type": "VI",
+    "verif": {
+      "question": "Faites fonctionner l’essuie-glace arrière du véhicule.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Pour une bonne visibilité vers l’arrière, en plus de l’utilisation de l’essuie-glace, quelle commande pouvez-vous actionner par temps de pluie ?",
+      "reponse": "La commande de désembuage arrière. Le terme dégivrage peut remplacer celui de désembuage.",
+      "mode": "qcm",
+      "distracteurs": [
+        "La commande du recyclage d'air pour assécher l'habitacle.",
+        "La commande de ventilation réglée au maximum.",
+        "La commande du dégivrage du pare-brise avant."
+      ],
+      "mots_cles_memo": [
+        "désembuage arrière"
+      ]
+    },
+    "secours": {
+      "question": "Quels comportements adopter en présence d'une victime qui ne répond pas et ne réagit pas, mais respire ?",
+      "reponse": "- La placer en position stable sur le côté ou position latérale de sécurité.\n- Alerter les secours.\n- Surveiller la respiration de la victime jusqu'à l'arrivée des secours.",
+      "mode": "libre",
+      "mots_cles": [
+        "latérale",
+        "alerter",
+        "surveiller"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "type": "VE",
+    "verif": {
+      "question": "Ouvrez et refermez le coffre, puis vérifiez sa bonne fermeture.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Lorsque vous transportez un poids important dans le coffre, quelles sont les précautions à prendre en ce qui concerne les pneumatiques et l'éclairage avant ?",
+      "reponse": "Augmenter la pression des pneumatiques et régler la hauteur des feux avants.",
+      "mode": "libre",
+      "mots_cles": [
+        "pression",
+        "hauteur"
+      ]
+    },
+    "secours": {
+      "question": "L’utilisation d’un Défibrillateur Automatisé (DAE) sur une victime qui n’est pas en arrêt cardiaque présente-t-elle un risque ?",
+      "reponse": "Non car le défibrillateur se déclenche uniquement quand la victime est en arrêt cardiaque.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, l'appareil peut provoquer des brûlures sur la peau.",
+        "Oui, il faut une formation médicale pour l'utiliser sans risque.",
+        "Oui, une décharge inopinée peut perturber le rythme cardiaque."
+      ],
+      "mots_cles_memo": [
+        "non",
+        "déclenche",
+        "arrêt cardiaque"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "type": "VI",
+    "verif": {
+      "question": "Indiquez où se situe les attaches de type Isofix dans le véhicule.",
+      "reponse": "Pour info : les attaches de type Isofix sont obligatoires sur les véhicules neufs depuis 2011.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Peut-on fixer tous les sièges enfant sur des attaches de type Isofix ?",
+      "reponse": "Non (uniquement ceux compatibles avec ce type d’attache).",
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, tous les sièges enfant sont compatibles depuis 2011.",
+        "Oui, à condition que le siège soit homologué CE.",
+        "Non, seuls les sièges du même constructeur que le véhicule."
+      ],
+      "mots_cles_memo": [
+        "non",
+        "compatibles"
+      ]
+    },
+    "secours": {
+      "question": "Comment vérifier la respiration d’une victime ?",
+      "reponse": "Regarder si le ventre et la poitrine se soulèvent et sentir de l’air à l’expiration.",
+      "mode": "libre",
+      "mots_cles": [
+        "poitrine",
+        "ventre",
+        "expiration"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "type": "VE",
+    "verif": {
+      "question": "Ouvrez et refermez le coffre, puis vérifiez sa bonne fermeture.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quels sont les risques de circuler avec des objets sur la plage arrière ?",
+      "reponse": "Une mauvaise visibilité vers l'arrière et un risque de projection en cas de freinage brusque ou de choc.",
+      "mode": "libre",
+      "mots_cles": [
+        "visibilité",
+        "projection"
+      ]
+    },
+    "secours": {
+      "question": "Qu’est ce qu’une hémorragie ?",
+      "reponse": "C’est une perte de sang prolongée qui ne s’arrête pas. Elle imbibe de sang un mouchoir en quelques secondes.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un saignement léger qui s'arrête de lui-même en quelques minutes.",
+        "Une bosse douloureuse qui apparaît après un choc violent.",
+        "Une coupure superficielle de la peau due à un objet tranchant."
+      ],
+      "mots_cles_memo": [
+        "perte de sang",
+        "prolongée",
+        "imbibe"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez sur le tableau de bord le voyant indiquant une baisse de pression d’air d’un pneumatique.",
+      "reponse": "Pour info: obligatoire sur tous les véhicules neufs mis en circulation à compter du 01/11/2014.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "A quelle fréquence est-il préconisé de vérifier la pression d’air des pneumatiques ?",
+      "reponse": "Tous les mois.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une fois par semaine.",
+        "Une fois tous les six mois, lors de l'entretien.",
+        "Une fois par an, lors du contrôle technique."
+      ],
+      "mots_cles_memo": [
+        "tous les mois"
+      ]
+    },
+    "secours": {
+      "question": "Qu’est ce qu’un arrêt cardiaque ?",
+      "reponse": "Le cœur ne fonctionne plus ou fonctionne d’une façon anarchique.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un évanouissement passager avec récupération spontanée.",
+        "Une douleur sévère à la poitrine sans perte de pouls.",
+        "Un ralentissement progressif du rythme cardiaque."
+      ],
+      "mots_cles_memo": [
+        "cœur",
+        "anarchique"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "type": "VE",
+    "verif": {
+      "question": "Procédez à l’ouverture du capot puis à sa fermeture en vous assurant de son verrouillage.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Pour un capot s’ouvrant depuis l’avant du véhicule, quelle est l’utilité du dispositif de sécurité ?",
+      "reponse": "Empêcher l’ouverture du capot en circulation en cas de mauvais verrouillage.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Faciliter l'ouverture du capot par temps de gel.",
+        "Permettre l'aération automatique du compartiment moteur.",
+        "Sécuriser l'accès au moteur en cas de vol."
+      ],
+      "mots_cles_memo": [
+        "empêcher",
+        "ouverture",
+        "circulation"
+      ]
+    },
+    "secours": {
+      "question": "Quels sont les risques pour une personne victime d’une hémorragie ?",
+      "reponse": "Entraîner pour la victime une détresse circulatoire ou un arrêt cardiaque.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une perte temporaire de la sensibilité du membre touché.",
+        "Une chute brutale de la température corporelle.",
+        "Une crise convulsive due à la peur du saignement."
+      ],
+      "mots_cles_memo": [
+        "détresse circulatoire",
+        "arrêt cardiaque"
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez la commande de réglage de hauteur des feux.",
+      "reponse": "Dispositif situé en général à gauche du volant.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Pourquoi doit-on régler la hauteur des feux ?",
+      "reponse": "Pour ne pas éblouir les autres usagers.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Pour éviter l'amende lors d'un contrôle de police.",
+        "Pour assurer une portée maximale des phares.",
+        "Pour augmenter la durée de vie des ampoules."
+      ],
+      "mots_cles_memo": [
+        "éblouir",
+        "autres usagers"
+      ]
+    },
+    "secours": {
+      "question": "Comment et pourquoi protéger une zone de danger en cas d’accident de la route ?",
+      "reponse": "En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident",
+      "mode": "libre",
+      "mots_cles": [
+        "délimiter",
+        "danger",
+        "sur-accident"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où se situent les gicleurs de lave-glace avant.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est la principale conséquence d’un dispositif de lave-glace défaillant ?",
+      "reponse": "Une mauvaise visibilité due à l’impossibilité de nettoyer le pare-brise.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une décharge accélérée de la batterie du véhicule.",
+        "Un risque d'incendie au niveau du compartiment moteur.",
+        "Une dégradation rapide des balais d'essuie-glace."
+      ],
+      "mots_cles_memo": [
+        "mauvaise visibilité",
+        "pare-brise"
+      ]
+    },
+    "secours": {
+      "question": "Qu’est ce qu’un défibrillateur automatisé externe (DAE) ?",
+      "reponse": "C’est un appareil qui peut permettre de rétablir une activité cardiaque normale à une victime en arrêt cardiaque.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un appareil pour mesurer la pression artérielle d'une victime.",
+        "Un kit complet de premiers secours obligatoire dans les entreprises.",
+        "Une trousse à pharmacie spécialisée dans les chocs cardiaques."
+      ],
+      "mots_cles_memo": [
+        "rétablir",
+        "activité cardiaque"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "type": "VI",
+    "verif": {
+      "question": "Mettez le rétroviseur intérieur en position \"nuit\". Si le rétroviseur de l'accompagnateur gène la manipulation du dispositif, l'explication suffit.",
+      "reponse": "Si le véhicule possède un système automatique de mise en position \"nuit\" du rétroviseur intérieur, le candidat l'indique.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quel est l’intérêt de la position nuit ?",
+      "reponse": "Ne pas être ébloui par les feux du véhicule suiveur.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Mieux voir les objets sur la banquette arrière la nuit.",
+        "Détecter automatiquement les véhicules en approche.",
+        "Réduire la fatigue des yeux lors des longs trajets nocturnes."
+      ],
+      "mots_cles_memo": [
+        "ébloui",
+        "véhicule suiveur"
+      ]
+    },
+    "secours": {
+      "question": "Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ?",
+      "reponse": "Il se compose de deux codes distincts : - le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs. -Le signal de fin d’alerte, signal continu.",
+      "mode": "libre",
+      "mots_cles": [
+        "SNA",
+        "cycles",
+        "fin d'alerte"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état du flanc sur l'un des pneumatiques.",
+      "reponse": "En bon état (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Citez un endroit où l'on peut trouver les pressions préconisées pour les pneumatiques ?",
+      "reponse": "Elles sont indiquées : - soit sur une plaque sur une portière. - soit dans la notice d'utilisation du véhicule. - soit au niveau de la trappe à carburant.",
+      "mode": "libre",
+      "mots_cles": [
+        "portière",
+        "notice",
+        "trappe"
+      ]
+    },
+    "secours": {
+      "question": "Sur autoroute, comment indiquer avec précision les lieux de l’accident depuis un téléphone portable ?",
+      "reponse": "En indiquant le numéro de l’autoroute, le sens de circulation et le point kilométrique.",
+      "mode": "libre",
+      "mots_cles": [
+        "numéro",
+        "sens",
+        "kilométrique"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "type": "VI",
+    "verif": {
+      "question": "Faites fonctionner les essuie-glaces avants du véhicule sur la position la plus rapide.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Comment détecte-t-on leur usure en circulation ?",
+      "reponse": "En cas de pluie, lorsqu'ils laissent des traces sur le pare brise.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsqu'ils émettent un grincement caractéristique.",
+        "Lorsqu'on remarque une décoloration de leur lame.",
+        "Lorsqu'ils consomment plus de liquide lave-glace."
+      ],
+      "mots_cles_memo": [
+        "pluie",
+        "traces",
+        "pare-brise"
+      ]
+    },
+    "secours": {
+      "question": "Comment vérifier la respiration d’une victime ?",
+      "reponse": "Regarder si le ventre et la poitrine se soulèvent et sentir de l’air à l’expiration.",
+      "mode": "libre",
+      "mots_cles": [
+        "poitrine",
+        "ventre",
+        "expiration"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où s'effectue le contrôle du niveau du liquide de frein.",
+      "reponse": "Le candidat montre que le niveau est entre le mini et le maxi. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est la conséquence d'un niveau insuffisant du liquide de frein ?",
+      "reponse": "Une perte d'efficacité du freinage.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une surchauffe immédiate des disques de frein.",
+        "Un blocage des roues à grande vitesse.",
+        "Une perte de la direction assistée."
+      ],
+      "mots_cles_memo": [
+        "perte d'efficacité",
+        "freinage"
+      ]
+    },
+    "secours": {
+      "question": "En cas de panne ou d’accident, quel équipement de sécurité doit être porté avant de quitter le véhicule ?",
+      "reponse": "Il faut porter le gilet de haute visibilité avant de sortir du véhicule. Le terme \" gilet jaune\" peut être utilisé par le candidat.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un casque de protection homologué.",
+        "Une couverture de survie aluminisée.",
+        "Une paire de gants épais antidérapants."
+      ],
+      "mots_cles_memo": [
+        "gilet",
+        "haute visibilité"
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "type": "VI",
+    "verif": {
+      "question": "Vérifiez la présence du gilet de haute visibilité.",
+      "reponse": "Le candidat doit montrer où il se trouve sans obligation de le sortir. Le terme \" gilet jaune\" peut être utilisé si le candidat ne comprend pas.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "En cas de panne ou d'accident, quel autre accessoire de sécurité est obligatoire ?",
+      "reponse": "Le triangle de pré-signalisation.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une trousse de premiers secours homologuée.",
+        "Un extincteur portatif obligatoire à bord.",
+        "Un casque de chantier rétro-réfléchissant."
+      ],
+      "mots_cles_memo": [
+        "triangle",
+        "pré-signalisation"
+      ]
+    },
+    "secours": {
+      "question": "Si un dégagement d'urgence de la victime est nécessaire, où doit- elle être déplacée ?",
+      "reponse": "Dans un endroit suffisamment éloigné du danger et de ses conséquences.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Vers le bas-côté immédiat de la route, à 1 ou 2 mètres.",
+        "À l'arrière du véhicule, protégée par la carrosserie.",
+        "Au centre de la zone pour faciliter l'accès des secours."
+      ],
+      "mots_cles_memo": [
+        "éloigné",
+        "danger",
+        "conséquences"
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où s'effectue le remplissage du liquide de refroidissement.",
+      "reponse": "Le candidat ouvre le capot et montre le bocal. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quel est le danger si l'on complète le niveau du liquide lorsque le moteur est chaud ?",
+      "reponse": "Un risque de brûlure.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une explosion du circuit de refroidissement.",
+        "Une réaction toxique avec les vapeurs du moteur.",
+        "Une dilution du produit antigel par l'eau résiduelle."
+      ],
+      "mots_cles_memo": [
+        "brûlure"
+      ]
+    },
+    "secours": {
+      "question": "Comment arrêter une hémorragie ?",
+      "reponse": "En appuyant fortement sur l’endroit qui saigne avec les doigts ou avec la paume de la main en mettant un tissu propre sur la plaie.",
+      "mode": "libre",
+      "mots_cles": [
+        "appuyer",
+        "saigne",
+        "tissu"
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "type": "VI",
+    "verif": {
+      "question": "Actionnez le dégivrage de la lunette arrière et montrez le voyant ou le repère correspondant.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quelle peut être la conséquence d'une panne de dégivrage de la lunette arrière ?",
+      "reponse": "L’insuffisance ou l’absence de visibilité vers l'arrière.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une perte progressive de la fonction recyclage d'air.",
+        "Une surchauffe localisée du tableau électrique arrière.",
+        "Une accumulation de condensation sur les phares arrière."
+      ],
+      "mots_cles_memo": [
+        "visibilité",
+        "arrière"
+      ]
+    },
+    "secours": {
+      "question": "Hors autoroute ou endroit dangereux, en cas de panne ou d’accident, où doit être placé le triangle de pré-signalisation ?",
+      "reponse": "Le triangle de pré-signalisation doit être placé à une distance d’environ 30 m de la panne ou de l’accident, ou avant un virage, ou un sommet de côte.",
+      "mode": "libre",
+      "mots_cles": [
+        "30",
+        "virage",
+        "côte"
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état, la propreté et le fonctionnement de tous les clignotants côté trottoir.",
+      "reponse": "Vérification des clignotants, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est la signification d'un clignotement plus rapide ?",
+      "reponse": "Non fonctionnement de l'une des ampoules.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une activation prochaine des feux de détresse.",
+        "Une signalisation d'un excès de vitesse imminent.",
+        "Une demande automatique de priorité à un carrefour."
+      ],
+      "mots_cles_memo": [
+        "ampoule",
+        "non fonctionnement"
+      ]
+    },
+    "secours": {
+      "question": "Quelles sont les précautions à prendre pour réaliser le dégagement d’urgence d’une victime en présence d’un danger réel, immédiat et non contrôlable ?",
+      "reponse": "La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûr(e) de pouvoir réaliser le dégagement de la victime.",
+      "mode": "libre",
+      "mots_cles": [
+        "visible",
+        "atteindre",
+        "gêner"
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez le voyant d'alerte signalant une pression insuffisante d'huile dans le moteur.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quelles sont les conditions à respecter pour compléter le niveau d'huile ?",
+      "reponse": "Moteur froid et sur un terrain plat.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Moteur en marche et juste après un long trajet.",
+        "Avant le démarrage par grand froid.",
+        "À chaud et juste après l'ajout de carburant."
+      ],
+      "mots_cles_memo": [
+        "moteur froid",
+        "terrain plat"
+      ]
+    },
+    "secours": {
+      "question": "Quelles sont les trois informations à transmettre aux services de secours ?",
+      "reponse": "Le numéro de téléphone à partir duquel l’appel est émis, la nature et la localisation la plus précise du problème.",
+      "mode": "libre",
+      "mots_cles": [
+        "téléphone",
+        "nature",
+        "localisation"
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de détresse à l'avant et à l'arrière.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Dans quels cas doit-on les utiliser ?",
+      "reponse": "En cas de panne, d’accident ou de ralentissement important.",
+      "mode": "libre",
+      "mots_cles": [
+        "panne",
+        "accident",
+        "ralentissement"
+      ]
+    },
+    "secours": {
+      "question": "Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS) ?",
+      "reponse": "Si la victime ne répond pas, ne réagit pas MAIS respire.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsque la victime saigne mais reste consciente.",
+        "Lorsque la victime ne respire plus et n'a plus de pouls.",
+        "Lorsque la victime se plaint d'une douleur intense."
+      ],
+      "mots_cles_memo": [
+        "ne répond pas",
+        "ne réagit pas",
+        "respire"
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "type": "VI",
+    "verif": {
+      "question": "Vérifiez la présence de l’éthylotest.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "A partir de quel taux d'alcoolémie, en période de permis probatoire, est-on en infraction ?",
+      "reponse": "0,2 g /l, c'est à dire 0 verre, car dès le 1er verre ce seuil peut être dépassé.",
+      "mode": "qcm",
+      "distracteurs": [
+        "0,5 g/l, identique aux conducteurs confirmés.",
+        "0,4 g/l, soit un verre standard maximum.",
+        "0,1 g/l, c'est-à-dire la tolérance la plus stricte."
+      ],
+      "mots_cles_memo": [
+        "0,2 g/l",
+        "0 verre"
+      ]
+    },
+    "secours": {
+      "question": "Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque ?",
+      "reponse": "- ALERTER: alerter immédiatement les secours. - MASSER: pratiquer une réanimation cardio-pulmonaire. - DEFIBRILLER: utiliser un défibrillateur automatique (DAE) si possible.",
+      "mode": "libre",
+      "mots_cles": [
+        "alerter",
+        "masser",
+        "défibriller"
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de route.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Citez un cas d'utilisation d'un appel lumineux.",
+      "reponse": "- Pour avertir de son approche. - En cas de danger. - A la place de l'avertisseur sonore.",
+      "mode": "libre",
+      "mots_cles": [
+        "avertir",
+        "danger",
+        "avertisseur"
+      ]
+    },
+    "secours": {
+      "question": "En cas de panne ou d’accident, quel équipement de sécurité doit être porté avant de quitter le véhicule ?",
+      "reponse": "Il faut porter le gilet de haute visibilité avant de sortir du véhicule. Le terme \" gilet jaune\" peut être utilisé par le candidat.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un casque de chantier homologué EN 397.",
+        "Une couverture isotherme aluminisée.",
+        "Une paire de gants épais en cuir."
+      ],
+      "mots_cles_memo": [
+        "gilet",
+        "haute visibilité"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "type": "VI",
+    "verif": {
+      "question": "Positionnez la commande pour diriger l'air vers le pare-brise.",
+      "reponse": "La position auto (désembuage automatique) peut être utilisée si le véhicule en est équipé.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Citez deux éléments complémentaires permettant un désembuage efficace ?",
+      "reponse": "La commande de vitesse de ventilation. - La commande d'air chaud. - La climatisation.",
+      "mode": "libre",
+      "mots_cles": [
+        "ventilation",
+        "air chaud",
+        "climatisation"
+      ]
+    },
+    "secours": {
+      "question": "Quel est l’objectif du Signal d’Alerte et d’Information des Populations (SAIP) ?",
+      "reponse": "Avertir la population d’un danger imminent ou qu’un événement grave est en train de se produire.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Lancer une procédure d'évacuation des routes nationales.",
+        "Coordonner les actions des hôpitaux face à un afflux.",
+        "Notifier les médias d'une intervention militaire en cours."
+      ],
+      "mots_cles_memo": [
+        "avertir",
+        "danger imminent"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où doit s'effectuer le contrôle du niveau d'huile moteur.",
+      "reponse": "Le candidat montre la jauge. Pas de manipulation exigée. Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quel est le principal risque d'un manque d'huile moteur ?",
+      "reponse": "Un risque de détérioration ou de casse du moteur.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un déclenchement permanent du voyant de batterie.",
+        "Une fuite généralisée du système de freinage.",
+        "Une projection d'huile sur les freins arrière."
+      ],
+      "mots_cles_memo": [
+        "détérioration",
+        "casse moteur"
+      ]
+    },
+    "secours": {
+      "question": "Comment est diffusée l’alerte émise par Le Signal d’Alerte et d’Information aux Populations (SAIP) ?",
+      "reponse": "Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l’application SAIP.",
+      "mode": "libre",
+      "mots_cles": [
+        "sirènes",
+        "médias",
+        "application"
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "type": "VI",
+    "verif": {
+      "question": "De quelle couleur est le voyant qui indique une défaillance du système de freinage ?",
+      "reponse": "Rouge.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Orange.",
+        "Jaune.",
+        "Vert."
+      ],
+      "mots_cles_memo": [
+        "rouge"
+      ]
+    },
+    "qser": {
+      "question": "Quel est le risque de circuler avec un frein de parking mal desserré ?",
+      "reponse": "Une dégradation du système de freinage.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une réduction notable de la distance de freinage.",
+        "Un blocage des roues arrière à grande vitesse.",
+        "Une consommation excessive de liquide de frein."
+      ],
+      "mots_cles_memo": [
+        "dégradation",
+        "freinage"
+      ]
+    },
+    "secours": {
+      "question": "En général, en cas de panne ou d’accident, où doit être placé le triangle de pré-signalisation ?",
+      "reponse": "Le triangle de pré-signalisation doit être placé à une distance d’environ 30 m de la panne ou de l’accident, ou avant un virage ou un sommet de côte.",
+      "mode": "libre",
+      "mots_cles": [
+        "30",
+        "virage",
+        "côte"
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "type": "VE",
+    "verif": {
+      "question": "Contrôlez l'état, la propreté et le fonctionnement des feux de croisement.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelles sont les conséquences d'un mauvais réglage de ces feux ?",
+      "reponse": "Une mauvaise vision vers l'avant et un risque d'éblouissement des autres usagers.",
+      "mode": "libre",
+      "mots_cles": [
+        "vision",
+        "éblouissement"
+      ]
+    },
+    "secours": {
+      "question": "Dans quelle situation peut-on déplacer une victime ?",
+      "reponse": "En présence d’un danger réel, immédiat, non contrôlable. Ce déplacement doit rester exceptionnel.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsque l'on peut la mettre à l'abri plus confortablement.",
+        "Quand un autre véhicule s'approche à allure réduite.",
+        "Lorsqu'elle gêne le passage des autres véhicules."
+      ],
+      "mots_cles_memo": [
+        "danger réel",
+        "immédiat",
+        "non contrôlable"
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez le voyant d'alerte signalant une température trop élevée du liquide de refroidissement.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quelle est la conséquence d'une température trop élevée de ce liquide ?",
+      "reponse": "La surchauffe ou la casse moteur.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un arrêt automatique du moteur en quelques secondes.",
+        "Une diminution rapide du niveau de carburant.",
+        "Une perte progressive d'efficacité du freinage."
+      ],
+      "mots_cles_memo": [
+        "surchauffe",
+        "casse moteur"
+      ]
+    },
+    "secours": {
+      "question": "Lors d’un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ?",
+      "reponse": "Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu’à l’arrivée des secours.",
+      "mode": "libre",
+      "mots_cles": [
+        "conseiller",
+        "guider",
+        "gestes"
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "type": "VE",
+    "verif": {
+      "question": "Sur le flanc d’un pneumatique, désignez le repère du témoin d'usure de la bande de roulement.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Qu'est-ce que l'aquaplanage, et quelle peut être sa conséquence ?",
+      "reponse": "La présence d'un film d'eau entre le pneumatique et la chaussée pouvant entraîner une perte de contrôle du véhicule.",
+      "mode": "libre",
+      "mots_cles": [
+        "film",
+        "eau",
+        "contrôle"
+      ]
+    },
+    "secours": {
+      "question": "Si un dégagement d'urgence de la victime est nécessaire, où doit- elle être déplacée ?",
+      "reponse": "Dans un endroit suffisamment éloigné du danger et de ses conséquences.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Le plus près possible de la route pour rester visible.",
+        "À l'intérieur du véhicule pour la protéger des intempéries.",
+        "À l'écart, hors de vue des passants pour éviter les attroupements."
+      ],
+      "mots_cles_memo": [
+        "éloigné",
+        "danger",
+        "conséquences"
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "type": "VI",
+    "verif": {
+      "question": "Actionnez les feux de détresse.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Dans quels cas doit-on les utiliser ?",
+      "reponse": "En cas de panne, d’accident ou de ralentissement important.",
+      "mode": "libre",
+      "mots_cles": [
+        "panne",
+        "accident",
+        "ralentissement"
+      ]
+    },
+    "secours": {
+      "question": "Quels comportements adopter en cas de diffusion du signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) ?",
+      "reponse": "- Se mettre en sécurité. - S'informer grâce aux médias et sites internet des autorités dès que leur consultation est possible. - Respecter les consignes des autorités. -",
+      "mode": "libre",
+      "mots_cles": [
+        "sécurité",
+        "informer",
+        "consignes"
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "type": "VE",
+    "verif": {
+      "question": "A l'aide de la plaque indicative, donnez la pression préconisée pour les pneumatiques arrières, véhicule chargé.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "A quelle fréquence est-il préconisé de vérifier la pression des pneus ?",
+      "reponse": "Chaque mois pour une utilisation normale de son véhicule et avant chaque long trajet.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Avant chaque trajet, même court, par sécurité.",
+        "À chaque plein de carburant.",
+        "Deux fois par an, en début et fin de saison."
+      ],
+      "mots_cles_memo": [
+        "chaque mois",
+        "long trajet"
+      ]
+    },
+    "secours": {
+      "question": "Comment et pourquoi protéger une zone de danger en cas d’accident de la route ?",
+      "reponse": "En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident.",
+      "mode": "libre",
+      "mots_cles": [
+        "délimiter",
+        "danger",
+        "sur-accident"
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez la commande permettant de désactiver l'airbag du passager avant.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Dans quelle situation doit-on le désactiver ?",
+      "reponse": "Lors du transport d'un enfant dans un siège auto dos à la route.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsqu'un passager est en position semi-allongée.",
+        "Lors d'un trajet de très courte distance en ville.",
+        "Quand le siège passager est en position avancée maximum."
+      ],
+      "mots_cles_memo": [
+        "enfant",
+        "dos à la route"
+      ]
+    },
+    "secours": {
+      "question": "Quelles sont les conditions pour réaliser le dégagement d’urgence d’une victime en présence d’un danger réel, immédiat et non contrôlable ?",
+      "reponse": "La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûr(e) de pouvoir réaliser le dégagement de la victime.",
+      "mode": "libre",
+      "mots_cles": [
+        "visible",
+        "atteindre",
+        "gêner"
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "type": "VE",
+    "verif": {
+      "question": "Indiquez où se situe la sécurité enfant sur l'une des portières à l’arrière du véhicule.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Si la sécurité enfant est enclenchée, est-il possible d'ouvrir la portière arrière depuis l'extérieur ?",
+      "reponse": "Oui.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Non, c'est le principe même de la sécurité enfant.",
+        "Non, sauf avec la clé électronique du véhicule.",
+        "Uniquement si la portière n'est pas verrouillée centralement."
+      ],
+      "mots_cles_memo": [
+        "oui"
+      ]
+    },
+    "secours": {
+      "question": "Quels sont les risques pour une personne victime d’une hémorragie ?",
+      "reponse": "Entraîner pour la victime une détresse circulatoire ou un arrêt cardiaque.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une infection bactérienne grave dans les heures suivantes.",
+        "Une fracture spontanée des os fragilisés par la perte de sang.",
+        "Une lésion irréversible des reins par déshydratation."
+      ],
+      "mots_cles_memo": [
+        "détresse circulatoire",
+        "arrêt cardiaque"
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez le voyant signalant l'absence de bouclage de la ceinture de sécurité du conducteur.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "En règle générale, à partir de quel âge un enfant peut-il être installé sur le siège passager avant du véhicule ?",
+      "reponse": "10 ans.",
+      "mode": "qcm",
+      "distracteurs": [
+        "À partir de 7 ans, dès la fin de l'école primaire.",
+        "À partir de 12 ans, comme à l'arrière sans rehausseur.",
+        "À partir de 14 ans, avec autorisation parentale écrite."
+      ],
+      "mots_cles_memo": [
+        "10 ans"
+      ]
+    },
+    "secours": {
+      "question": "Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ?",
+      "reponse": "Il se compose de deux codes distincts : - le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs. - Le signal de fin d’alerte, signal continu.",
+      "mode": "libre",
+      "mots_cles": [
+        "SNA",
+        "cycles",
+        "fin d'alerte"
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "type": "VE",
+    "verif": {
+      "question": "Avec l'assistance de l'accompagnateur, contrôlez l'état, la propreté et le fonctionnement des feux de stop.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est la conséquence en cas de panne des feux de stop ?",
+      "reponse": "Un manque d'information pour les usagers suiveurs et un risque de collision.",
+      "mode": "libre",
+      "mots_cles": [
+        "information",
+        "collision"
+      ]
+    },
+    "secours": {
+      "question": "Lors d’un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ?",
+      "reponse": "Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu’à l’arrivée des secours.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Car la communication doit absolument durer cinq minutes minimum.",
+        "Pour que l'opérateur puisse retracer précisément la localisation.",
+        "Car la loi exige une confirmation orale de l'identité de l'appelant."
+      ],
+      "mots_cles_memo": [
+        "conseiller",
+        "guider",
+        "gestes"
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "type": "VI",
+    "verif": {
+      "question": "Allumez le(s) feu(x) de brouillard arrière(s) et montrez le voyant correspondant.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Pouvez-vous les utiliser par forte pluie ?",
+      "reponse": "Non.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, pour mieux se signaler aux conducteurs derrière.",
+        "Oui, mais uniquement en cas de fort trafic.",
+        "Oui, en complément des feux de croisement."
+      ],
+      "mots_cles_memo": [
+        "non"
+      ]
+    },
+    "secours": {
+      "question": "Quels sont les signes d’un arrêt cardiaque ?",
+      "reponse": "La victime ne répond pas, ne réagit pas et ne respire pas, ou présente une respiration anormale.",
+      "mode": "qcm",
+      "distracteurs": [
+        "La victime saigne abondamment et perd ses forces.",
+        "La victime se plaint d'une violente douleur thoracique.",
+        "La victime respire fort mais ne parle plus du tout."
+      ],
+      "mots_cles_memo": [
+        "ne respire pas",
+        "anormale"
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "type": "VE",
+    "verif": {
+      "question": "Vérifiez l'état, la propreté et le fonctionnement des feux diurnes.",
+      "reponse": "Vérification des feux, propres, en bon état et fonctionnent (toute anomalie doit être signalée).",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est leur utilité ?",
+      "reponse": "Rendre le véhicule plus visible le jour.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Allonger la durée de vie des phares principaux.",
+        "Réduire la consommation lors des trajets diurnes.",
+        "Détecter automatiquement les changements de luminosité."
+      ],
+      "mots_cles_memo": [
+        "visible",
+        "jour"
+      ]
+    },
+    "secours": {
+      "question": "A quel moment pouvez-vous mettre fin à un appel avec les secours ?",
+      "reponse": "Uniquement lorsque notre correspondant nous invite à le faire.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Dès qu'on a communiqué toutes les informations utiles.",
+        "Quand on voit arriver le véhicule des secours.",
+        "Au bout de cinq minutes maximum pour ne pas saturer la ligne."
+      ],
+      "mots_cles_memo": [
+        "correspondant",
+        "invite"
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez la commande de recyclage de l'air.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quel peut être le risque de maintenir le recyclage de l’air de manière prolongée ?",
+      "reponse": "Un risque de mauvaise visibilité par l’apparition de buée sur les surfaces vitrées.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une raréfaction de l'oxygène dans l'habitacle.",
+        "Une surchauffe progressive du moteur de ventilation.",
+        "Une accumulation d'humidité dans le filtre d'habitacle."
+      ],
+      "mots_cles_memo": [
+        "buée",
+        "visibilité"
+      ]
+    },
+    "secours": {
+      "question": "Quels sont les risques pour une personne en perte de connaissance qui est allongée sur le dos ?",
+      "reponse": "L’arrêt respiratoire et l’arrêt cardiaque.",
+      "mode": "libre",
+      "mots_cles": [
+        "respiratoire",
+        "cardiaque"
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "type": "VE",
+    "verif": {
+      "question": "Vérifiez la présence du triangle de pré-signalisation.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Utilise-t-on le triangle de pré-signalisation sur autoroute ?",
+      "reponse": "Non.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, à 30 mètres du véhicule comme partout ailleurs.",
+        "Oui, mais uniquement de jour avec bonne visibilité.",
+        "Oui, à 100 mètres minimum à l'arrière."
+      ],
+      "mots_cles_memo": [
+        "non"
+      ]
+    },
+    "secours": {
+      "question": "Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque ?",
+      "reponse": "- ALERTER: alerter immédiatement les secours. - MASSER: pratiquer une réanimation cardio-pulmonaire. - DEFIBRILLER: utiliser un défibrillateur automatique (DAE) si possible.",
+      "mode": "libre",
+      "mots_cles": [
+        "alerter",
+        "masser",
+        "défibriller"
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "type": "VI",
+    "verif": {
+      "question": "Allumez les feux de route et montrez le voyant correspondant.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Quel est le risque de maintenir les feux de route lors d'un croisement avec d'autres usagers ?",
+      "reponse": "Un risque d'éblouissement des autres usagers.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une dégradation rapide des ampoules à pleine puissance.",
+        "Une saturation des capteurs des autres véhicules.",
+        "Une infraction automatique relevée par les radars."
+      ],
+      "mots_cles_memo": [
+        "éblouissement",
+        "autres usagers"
+      ]
+    },
+    "secours": {
+      "question": "Quel est l’objectif du Signal d’Alerte et d’Information des Populations (SAIP) ?",
+      "reponse": "Avertir la population d’un danger imminent ou qu’un événement grave est en train de se produire.",
+      "mode": "libre",
+      "mots_cles": [
+        "population",
+        "danger",
+        "imminent"
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où s'effectue le changement d'une ampoule à l'avant du véhicule.",
+      "reponse": "Si le candidat a des difficultés pour ouvrir le capot, l'accompagnateur peut lui indiquer comment procéder.",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelles sont les conséquences en cas de panne d'un feu de croisement ?",
+      "reponse": "Une mauvaise visibilité et le risque d'être confondu avec un deux roues.",
+      "mode": "libre",
+      "mots_cles": [
+        "visibilité",
+        "deux roues"
+      ]
+    },
+    "secours": {
+      "question": "Citez les trois manières d’évaluer l’état de conscience d’une victime ?",
+      "reponse": "- Lui poser des questions simples (\"comment ça va ?\", \"vous m'entendez ?\"). - Lui secouer doucement les épaules. - Lui prendre la main en lui demandant d'exécuter un geste simple (\"serrez-moi la main\").",
+      "mode": "libre",
+      "mots_cles": [
+        "questions",
+        "épaules",
+        "main"
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "type": "VI",
+    "verif": {
+      "question": "Faites fonctionner l’essuie-glace arrière du véhicule.",
+      "reponse": "",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "Pour une bonne visibilité vers l’arrière, en plus de l’utilisation de l’essuie-glace, quelle commande pouvez-vous actionner par temps de pluie ?",
+      "reponse": "La commande de désembuage arrière. Le terme dégivrage peut remplacer celui de désembuage.",
+      "mode": "qcm",
+      "distracteurs": [
+        "La commande des feux de brouillard arrière.",
+        "La commande de recyclage d'air en position auto.",
+        "La commande de chauffage maximum dirigée vers la lunette."
+      ],
+      "mots_cles_memo": [
+        "désembuage arrière"
+      ]
+    },
+    "secours": {
+      "question": "Quels comportements adopter en présence d'une victime qui ne répond pas et ne réagit pas, mais respire ?",
+      "reponse": "- La placer en position stable sur le côté ou position latérale de sécurité.\n- Alerter les secours.\n- Surveiller la respiration de la victime jusqu'à l'arrivée des secours.",
+      "mode": "libre",
+      "mots_cles": [
+        "latérale",
+        "alerter",
+        "surveiller"
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où s'effectue le changement d'une ampoule à l'arrière du véhicule.",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelles sont les conséquences en cas de panne d'un feu de position arrière ?",
+      "reponse": "Être mal vu et un risque de collision.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une amende lors du prochain contrôle technique uniquement.",
+        "Une dégradation accélérée des autres feux du véhicule.",
+        "Une décharge plus rapide de la batterie en circulation."
+      ],
+      "mots_cles_memo": [
+        "mal vu",
+        "collision"
+      ]
+    },
+    "secours": {
+      "question": "Comment est diffusée l’alerte émise par le Signal d’Alerte et d’Information aux Populations (SAIP) ?",
+      "reponse": "Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l’application SAIP.",
+      "mode": "libre",
+      "mots_cles": [
+        "sirènes",
+        "médias",
+        "application"
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "type": "VI",
+    "verif": {
+      "question": "Montrez le voyant indiquant une baisse de pression d’air d’un pneumatique ?",
+      "reponse": "Pour info : obligatoire sur tous les véhicules neufs mis en circulation à compter du 01/11/2014.",
+      "mode": "geste_interieur"
+    },
+    "qser": {
+      "question": "A quelle fréquence est-il préconisé de vérifier la pression d’air des pneumatiques ?",
+      "reponse": "Tous les mois.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Une fois par trimestre, en début de saison.",
+        "À chaque plein de carburant pour plus de sécurité.",
+        "Une fois par an, lors du contrôle technique."
+      ],
+      "mots_cles_memo": [
+        "tous les mois"
+      ]
+    },
+    "secours": {
+      "question": "Qu’est ce qu’un arrêt cardiaque ?",
+      "reponse": "Le cœur ne fonctionne plus ou fonctionne d’une façon anarchique.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un battement cardiaque légèrement irrégulier mais audible.",
+        "Une douleur thoracique intense sans perte de conscience.",
+        "Un évanouissement de quelques secondes avec récupération spontanée."
+      ],
+      "mots_cles_memo": [
+        "cœur",
+        "anarchique"
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "type": "VE",
+    "verif": {
+      "question": "Montrez où se situent les gicleurs de lave-glace avant ?",
+      "reponse": "",
+      "mode": "geste_exterieur"
+    },
+    "qser": {
+      "question": "Quelle est la principale conséquence d’un dispositif de lave-glace défaillant ?",
+      "reponse": "Une mauvaise visibilité due à l’impossibilité de nettoyer le pare-brise.",
+      "mode": "qcm",
+      "distracteurs": [
+        "Un risque accru d'embuage du pare-brise par l'intérieur.",
+        "Une usure prématurée du caoutchouc des balais.",
+        "Un dérèglement automatique de la pression du circuit."
+      ],
+      "mots_cles_memo": [
+        "mauvaise visibilité",
+        "pare-brise"
+      ]
+    },
+    "secours": {
+      "question": "Qu’est ce qu’un défibrillateur automatisé externe (DAE) ?",
+      "reponse": "C’est un appareil qui peut permettre de rétablir une activité cardiaque normale à une victime en arrêt cardiaque.",
+      "mode": "libre",
+      "mots_cles": [
+        "rétablir",
+        "cardiaque"
+      ]
+    }
+  }
+]

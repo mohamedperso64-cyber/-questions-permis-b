@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python -c ' *)",
+      "Bash(npm --version)",
+      "Bash(python \"C:\\\\Users\\\\compt\\\\Desktop\\\\site_questions_permis\\\\build_questions.py\")",
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(python \"C:\\\\Users\\\\compt\\\\Desktop\\\\site_questions_permis\\\\tools\\\\build_questions.py\")",
+      "Bash(npm run *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/)",
+      "Bash(node tools/test_matching.mjs)"
+    ]
+  }
+}

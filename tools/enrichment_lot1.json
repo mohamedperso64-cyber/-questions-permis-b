@@ -1,0 +1,179 @@
+{
+  "_doc": "Lot 1 — enrichissement Q1 à Q10. Chaque question a 3 sous-parties (verif, qser, secours), chacune avec un mode. Les mots-clés mémoire (mots_cles_memo) sont affichés après la réponse d'un QCM, comme aide mnémotechnique.",
+  "_legende_modes": {
+    "geste_interieur": "VI : geste à exécuter à l'intérieur de l'habitacle (commandes, voyants, etc.). Auto-évaluation après affichage de la réponse modèle.",
+    "geste_exterieur": "VE : geste à exécuter à l'extérieur du véhicule (feux, pneus, capot, etc.). Auto-évaluation après affichage de la réponse modèle.",
+    "qcm": "4 propositions affichées (1 bonne + 3 distracteurs), randomisées. Verdict immédiat + affichage des mots-clés mémoire.",
+    "libre": "L'utilisateur tape sa réponse. Le système cherche les mots-clés (avec tolérance fautes de frappe). Verdict : Excellent / Proche / Hors sujet."
+  },
+
+  "1": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Pour mieux éclairer les panneaux de signalisation.",
+        "Pour adapter l'éclairage selon la vitesse du véhicule.",
+        "Pour économiser la batterie du véhicule."
+      ],
+      "mots_cles_memo": ["éblouir", "autres usagers"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["délimiter", "danger", "sur-accident"]
+    }
+  },
+
+  "2": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Pour mieux dissoudre les insectes incrustés sur le pare-brise.",
+        "Pour augmenter la durée de vie des balais d'essuie-glace.",
+        "Pour limiter l'évaporation du produit par temps froid."
+      ],
+      "mots_cles_memo": ["gel", "liquide"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["sécurité", "informer", "consignes"]
+    }
+  },
+
+  "3": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Améliorer la visibilité vers l'avant pendant la nuit.",
+        "Faciliter la conduite dans les tunnels.",
+        "Réduire la consommation électrique du rétroviseur."
+      ],
+      "mots_cles_memo": ["ébloui", "véhicule suiveur"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["SNA", "cycles", "fin d'alerte"]
+    }
+  },
+
+  "4": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["portière", "notice", "trappe"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["numéro", "sens", "kilométrique"]
+    }
+  },
+
+  "5": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsqu'on entend un bruit anormal en les actionnant.",
+        "Lorsqu'on observe une fissure sur la lame en caoutchouc.",
+        "Lorsqu'ils ne reviennent plus à leur position de repos."
+      ],
+      "mots_cles_memo": ["pluie", "traces", "pare-brise"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["poitrine", "ventre", "expiration"]
+    }
+  },
+
+  "6": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["plaque", "feux", "visibles"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsque la victime saigne abondamment et perd ses forces.",
+        "Lorsque la victime ne respire plus et n'a plus de pouls.",
+        "Lorsque la victime est consciente mais ne peut plus parler."
+      ],
+      "mots_cles_memo": ["ne répond pas", "ne réagit pas", "respire"]
+    }
+  },
+
+  "7": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une trousse de secours homologuée.",
+        "Un extincteur de classe ABC.",
+        "Une lampe torche à LED autonome."
+      ],
+      "mots_cles_memo": ["triangle", "pré-signalisation"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "À l'intérieur du véhicule le plus proche pour la mettre à l'abri.",
+        "Sur le bord de la chaussée, près de la ligne blanche.",
+        "Vers le poste de secours le plus proche, même éloigné."
+      ],
+      "mots_cles_memo": ["éloigné", "danger", "conséquences"]
+    }
+  },
+
+  "8": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une surchauffe immédiate du moteur.",
+        "Un blocage complet du système d'embrayage.",
+        "Une accélération involontaire du véhicule."
+      ],
+      "mots_cles_memo": ["perte d'efficacité", "freinage"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un casque de protection homologué.",
+        "Une paire de gants de chantier.",
+        "Des chaussures à coque métallique."
+      ],
+      "mots_cles_memo": ["gilet", "haute visibilité"]
+    }
+  },
+
+  "9": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["assurance", "permis"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["moyens", "adaptés", "délai"]
+    }
+  },
+
+  "10": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un risque d'éblouissement par les phares adverses.",
+        "Une usure prématurée du pare-brise.",
+        "Un dysfonctionnement du chauffage de l'habitacle."
+      ],
+      "mots_cles_memo": ["mauvaise visibilité", "intempéries"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["18", "15", "112"]
+    }
+  }
+}

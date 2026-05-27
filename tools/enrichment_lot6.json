@@ -1,0 +1,186 @@
+{
+  "_doc": "Lot 6 — enrichissement Q51 à Q60.",
+
+  "51": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une surchauffe des phares due à leur usage prolongé.",
+        "Une décharge accélérée de la batterie du véhicule.",
+        "Une amende automatique en cas de croisement avec une voiture radar."
+      ],
+      "mots_cles_memo": ["éblouissement", "autres usagers"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["population", "danger", "imminent"]
+    }
+  },
+
+  "52": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Compenser l'usure naturelle des feux de croisement.",
+        "Économiser de l'énergie en circulation urbaine.",
+        "Remplacer les feux de position lorsqu'ils tombent en panne."
+      ],
+      "mots_cles_memo": ["visible", "jour"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Quand on a fini de décrire la situation à l'opérateur.",
+        "Quand on entend la sirène des secours s'approcher.",
+        "Quand on doit s'occuper d'urgence de la victime."
+      ],
+      "mots_cles_memo": ["correspondant", "invite"]
+    }
+  },
+
+  "53": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Dans les 24 heures suivant l'accident.",
+        "Dans les 48 heures suivant l'accident.",
+        "Dans un délai de 15 jours maximum."
+      ],
+      "mots_cles_memo": ["5 jours"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une perte de mémoire permanente après réanimation.",
+        "Une paralysie progressive des membres inférieurs.",
+        "Une dégradation lente sur plusieurs heures avant intervention."
+      ],
+      "mots_cles_memo": ["mort", "minutes"]
+    }
+  },
+
+  "54": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, à au moins 100 m derrière le véhicule.",
+        "Oui, mais uniquement de jour.",
+        "Cela dépend de la portion d'autoroute concernée."
+      ],
+      "mots_cles_memo": ["non"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["alerter", "masser", "défibriller"]
+    }
+  },
+
+  "55": {
+    "verif": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Orange.",
+        "Jaune.",
+        "Vert."
+      ],
+      "mots_cles_memo": ["rouge"]
+    },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une augmentation de la consommation de carburant.",
+        "Un blocage du système de transmission automatique.",
+        "Une décharge rapide de la batterie en circulation."
+      ],
+      "mots_cles_memo": ["dégradation", "freinage"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["appuyer", "saigne", "tissu"]
+    }
+  },
+
+  "56": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["visibilité", "deux roues"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["questions", "épaules", "main"]
+    }
+  },
+
+  "57": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Maintenir automatiquement la vitesse choisie par le conducteur.",
+        "Couper le moteur en cas d'excès de vitesse trop important.",
+        "Adapter la vitesse en fonction des limitations affichées."
+      ],
+      "mots_cles_memo": ["pas dépasser", "vitesse programmée"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["18", "15", "112"]
+    }
+  },
+
+  "58": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une amende immédiate au prochain contrôle technique.",
+        "Une surchauffe des autres ampoules du véhicule.",
+        "Une perte de visibilité du tableau de bord la nuit."
+      ],
+      "mots_cles_memo": ["mal vu", "collision"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["sirènes", "médias", "application"]
+    }
+  },
+
+  "59": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "La commande du recyclage d'air pour assécher l'habitacle.",
+        "La commande de ventilation réglée au maximum.",
+        "La commande du dégivrage du pare-brise avant."
+      ],
+      "mots_cles_memo": ["désembuage arrière"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["latérale", "alerter", "surveiller"]
+    }
+  },
+
+  "60": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["pression", "hauteur"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, l'appareil peut provoquer des brûlures sur la peau.",
+        "Oui, il faut une formation médicale pour l'utiliser sans risque.",
+        "Oui, une décharge inopinée peut perturber le rythme cardiaque."
+      ],
+      "mots_cles_memo": ["non", "déclenche", "arrêt cardiaque"]
+    }
+  }
+}

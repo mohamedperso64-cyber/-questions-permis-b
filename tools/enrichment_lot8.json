@@ -1,0 +1,178 @@
+{
+  "_doc": "Lot 8 — enrichissement Q71 à Q80.",
+
+  "71": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une trousse de premiers secours homologuée.",
+        "Un extincteur portatif obligatoire à bord.",
+        "Un casque de chantier rétro-réfléchissant."
+      ],
+      "mots_cles_memo": ["triangle", "pré-signalisation"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Vers le bas-côté immédiat de la route, à 1 ou 2 mètres.",
+        "À l'arrière du véhicule, protégée par la carrosserie.",
+        "Au centre de la zone pour faciliter l'accès des secours."
+      ],
+      "mots_cles_memo": ["éloigné", "danger", "conséquences"]
+    }
+  },
+
+  "72": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une explosion du circuit de refroidissement.",
+        "Une réaction toxique avec les vapeurs du moteur.",
+        "Une dilution du produit antigel par l'eau résiduelle."
+      ],
+      "mots_cles_memo": ["brûlure"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["appuyer", "saigne", "tissu"]
+    }
+  },
+
+  "73": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une perte progressive de la fonction recyclage d'air.",
+        "Une surchauffe localisée du tableau électrique arrière.",
+        "Une accumulation de condensation sur les phares arrière."
+      ],
+      "mots_cles_memo": ["visibilité", "arrière"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["30", "virage", "côte"]
+    }
+  },
+
+  "74": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une activation prochaine des feux de détresse.",
+        "Une signalisation d'un excès de vitesse imminent.",
+        "Une demande automatique de priorité à un carrefour."
+      ],
+      "mots_cles_memo": ["ampoule", "non fonctionnement"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["visible", "atteindre", "gêner"]
+    }
+  },
+
+  "75": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Moteur en marche et juste après un long trajet.",
+        "Avant le démarrage par grand froid.",
+        "À chaud et juste après l'ajout de carburant."
+      ],
+      "mots_cles_memo": ["moteur froid", "terrain plat"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["téléphone", "nature", "localisation"]
+    }
+  },
+
+  "76": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["panne", "accident", "ralentissement"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsque la victime saigne mais reste consciente.",
+        "Lorsque la victime ne respire plus et n'a plus de pouls.",
+        "Lorsque la victime se plaint d'une douleur intense."
+      ],
+      "mots_cles_memo": ["ne répond pas", "ne réagit pas", "respire"]
+    }
+  },
+
+  "77": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "0,5 g/l, identique aux conducteurs confirmés.",
+        "0,4 g/l, soit un verre standard maximum.",
+        "0,1 g/l, c'est-à-dire la tolérance la plus stricte."
+      ],
+      "mots_cles_memo": ["0,2 g/l", "0 verre"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["alerter", "masser", "défibriller"]
+    }
+  },
+
+  "78": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["avertir", "danger", "avertisseur"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un casque de chantier homologué EN 397.",
+        "Une couverture isotherme aluminisée.",
+        "Une paire de gants épais en cuir."
+      ],
+      "mots_cles_memo": ["gilet", "haute visibilité"]
+    }
+  },
+
+  "79": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["ventilation", "air chaud", "climatisation"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Lancer une procédure d'évacuation des routes nationales.",
+        "Coordonner les actions des hôpitaux face à un afflux.",
+        "Notifier les médias d'une intervention militaire en cours."
+      ],
+      "mots_cles_memo": ["avertir", "danger imminent"]
+    }
+  },
+
+  "80": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un déclenchement permanent du voyant de batterie.",
+        "Une fuite généralisée du système de freinage.",
+        "Une projection d'huile sur les freins arrière."
+      ],
+      "mots_cles_memo": ["détérioration", "casse moteur"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["sirènes", "médias", "application"]
+    }
+  }
+}

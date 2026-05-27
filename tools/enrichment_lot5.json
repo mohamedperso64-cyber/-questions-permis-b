@@ -1,0 +1,196 @@
+{
+  "_doc": "Lot 5 — enrichissement Q41 à Q50. Complète la première moitié de la banque.",
+
+  "41": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["immatriculation", "permis"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une douleur intense au niveau d'une blessure profonde.",
+        "Une perte de connaissance soudaine sans cause apparente.",
+        "Un saignement léger et superficiel qui s'arrête de lui-même."
+      ],
+      "mots_cles_memo": ["perte de sang", "prolongée", "imbibe"]
+    }
+  },
+
+  "42": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Non, la sécurité enfant bloque les deux côtés.",
+        "Non, l'ouverture n'est possible qu'avec la clé électronique.",
+        "Cela dépend du modèle et de l'année du véhicule."
+      ],
+      "mots_cles_memo": ["oui"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une perte de motricité dans le membre concerné.",
+        "Une infection rapide de la zone blessée.",
+        "Une déshydratation prolongée nécessitant une perfusion."
+      ],
+      "mots_cles_memo": ["détresse circulatoire", "arrêt cardiaque"]
+    }
+  },
+
+  "43": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, ils améliorent la visibilité dans les fortes averses.",
+        "Oui, à condition de rouler à allure modérée.",
+        "Cela dépend du modèle et de l'équipement du véhicule."
+      ],
+      "mots_cles_memo": ["non"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "La victime respire normalement mais reste totalement immobile.",
+        "La victime saigne abondamment et a perdu connaissance.",
+        "La victime se plaint d'une douleur intense à la poitrine."
+      ],
+      "mots_cles_memo": ["ne respire pas", "anormale"]
+    }
+  },
+
+  "44": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["éclairer", "avertir"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un appareil de mesure de la tension artérielle automatisé.",
+        "Un dispositif portable pour pratiquer un massage cardiaque.",
+        "Un équipement réservé aux pompiers et professionnels de santé."
+      ],
+      "mots_cles_memo": ["rétablir", "activité cardiaque"]
+    }
+  },
+
+  "45": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Améliorer le confort lors des longs trajets.",
+        "Servir de support pour les passagers qui dorment.",
+        "Régler automatiquement la position du siège."
+      ],
+      "mots_cles_memo": ["mouvement", "tête", "blessures"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["portable", "fixe", "borne"]
+    }
+  },
+
+  "46": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["information", "collision"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["conseiller", "guider", "gestes"]
+    }
+  },
+
+  "47": {
+    "verif": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Rouge.",
+        "Jaune.",
+        "Vert."
+      ],
+      "mots_cles_memo": ["orange"]
+    },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["danger", "important"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Le cœur bat très lentement mais reste régulier.",
+        "Une douleur intense à la poitrine qui irradie dans le bras.",
+        "Une élévation brutale de la tension artérielle."
+      ],
+      "mots_cles_memo": ["cœur", "anarchique"]
+    }
+  },
+
+  "48": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une augmentation importante de la consommation de carburant.",
+        "Un déclenchement intempestif des feux de détresse.",
+        "Une surchauffe du moteur due à l'aspiration d'air."
+      ],
+      "mots_cles_memo": ["ouverture", "accident"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Des séquelles neurologiques sévères mais réversibles.",
+        "Un coma profond qui peut durer plusieurs jours.",
+        "Une paralysie partielle du côté gauche du corps."
+      ],
+      "mots_cles_memo": ["mort", "minutes"]
+    }
+  },
+
+  "49": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une intoxication au monoxyde de carbone dans l'habitacle.",
+        "Une surchauffe du moteur due au manque de ventilation.",
+        "Une dégradation prématurée du filtre à pollen."
+      ],
+      "mots_cles_memo": ["buée", "visibilité"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une déshydratation rapide en quelques minutes.",
+        "Une compression des nerfs entraînant une paralysie.",
+        "Une chute de tension artérielle prolongée."
+      ],
+      "mots_cles_memo": ["arrêt respiratoire", "arrêt cardiaque"]
+    }
+  },
+
+  "50": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une usure prématurée des balais d'essuie-glace.",
+        "Un risque de fissure du pare-brise par frottement.",
+        "Une dégradation du moteur du système de lavage."
+      ],
+      "mots_cles_memo": ["mauvaise visibilité"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["lésions", "cerveau", "minutes"]
+    }
+  }
+}

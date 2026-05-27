@@ -1,0 +1,107 @@
+/* ===================================================================
+   Route animée — scène avec voiture rouge, feu tricolore et compteur
+   =================================================================== */
+
+.road {
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  margin-left: -50vw;
+  height: 130px;
+  background: linear-gradient(180deg, #2c3138 0%, #1a1d24 50%, #2c3138 100%);
+  margin-top: var(--space-8);
+  margin-bottom: var(--space-8);
+  overflow: visible;
+  box-shadow:
+    inset 0 10px 14px rgba(0, 0, 0, 0.45),
+    inset 0 -10px 14px rgba(0, 0, 0, 0.45);
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Lignes blanches latérales (bord d'asphalte) */
+.road::before,
+.road::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: rgba(244, 241, 232, 0.35);
+  pointer-events: none;
+}
+.road::before { top: 8px; }
+.road::after  { bottom: 8px; }
+
+/* Pointillés centraux qui défilent (s'arrêtent pendant le rouge via JS) */
+.road__lane {
+  position: absolute;
+  top: 40%;
+  transform: translateY(-50%);
+  left: -100px;
+  right: -100px;
+  height: 5px;
+  background-image: repeating-linear-gradient(
+    90deg,
+    #f4f1e8 0 50px,
+    transparent 50px 100px
+  );
+  background-size: 100px 5px;
+  animation: road-scroll 1.6s linear infinite;
+  opacity: 0.9;
+}
+
+@keyframes road-scroll {
+  from { background-position-x: 0; }
+  to   { background-position-x: -100px; }
+}
+
+/* Voiture rouge (transform piloté en JS) */
+.road__car {
+  position: absolute;
+  bottom: 22px;
+  left: 0;
+  width: 100px;
+  height: 42px;
+  will-change: transform;
+  filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.55));
+  z-index: 2;
+  /* Position initiale (avant que le JS prenne le relais) */
+  transform: translateX(100vw);
+}
+
+/* Feu tricolore */
+.road__signal {
+  position: absolute;
+  left: 15vw;
+  bottom: 0;
+  width: 44px;
+  height: 124px;
+  z-index: 3;
+  pointer-events: none;
+}
+
+/* Ampoules — état éteint par défaut, classe .on quand allumée */
+.signal__bulb { transition: fill 120ms ease-out, filter 120ms ease-out; }
+.signal__bulb--red    { fill: #3A0808; }
+.signal__bulb--yellow { fill: #4A3818; }
+.signal__bulb--green  { fill: #1E4A24; }
+
+.signal__bulb--red.on {
+  fill: #FF3838;
+  filter: drop-shadow(0 0 6px rgba(255, 56, 56, 0.9));
+}
+.signal__bulb--yellow.on {
+  fill: #FFC83D;
+  filter: drop-shadow(0 0 6px rgba(255, 200, 60, 0.9));
+}
+.signal__bulb--green.on {
+  fill: #4DFF5D;
+  filter: drop-shadow(0 0 6px rgba(77, 255, 93, 0.9));
+}
+
+/* Accessibilité : si l'utilisateur a prefers-reduced-motion, on désactive
+   les pointillés. La scène JS continue mais c'est moins agressif visuellement. */
+@media (prefers-reduced-motion: reduce) {
+  .road__lane { animation: none; opacity: 0.6; }
+}

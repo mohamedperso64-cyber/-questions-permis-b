@@ -1,0 +1,168 @@
+{
+  "_doc": "Lot 4 — enrichissement Q31 à Q40.",
+
+  "31": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["panne", "accident", "ralentissement"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["sécurité", "informer", "consignes"]
+    }
+  },
+
+  "32": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["film", "eau", "contrôle"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "À l'intérieur du véhicule le plus proche pour la mettre à l'abri.",
+        "Sur le bord de la chaussée, près de la ligne blanche.",
+        "Vers un endroit isolé, à l'écart des regards des autres usagers."
+      ],
+      "mots_cles_memo": ["éloigné", "danger", "conséquences"]
+    }
+  },
+
+  "33": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "En tournant le volant brusquement vers la droite.",
+        "En tirant fortement sur le frein à main.",
+        "En passant immédiatement en marche arrière."
+      ],
+      "mots_cles_memo": ["frein", "embrayage"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["numéro", "sens", "kilométrique"]
+    }
+  },
+
+  "34": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["moteur", "fumer", "téléphoner"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["moyens", "adaptés", "délai"]
+    }
+  },
+
+  "35": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Pour saluer les autres conducteurs que l'on connaît.",
+        "Pour signaler son impatience dans un embouteillage.",
+        "Pour rappeler la priorité à un piéton qui hésite à traverser."
+      ],
+      "mots_cles_memo": ["danger immédiat"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["étouffement", "liquides", "langue"]
+    }
+  },
+
+  "36": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une fuite généralisée du circuit hydraulique.",
+        "Un blocage du démarreur électrique.",
+        "Une surconsommation de carburant constante."
+      ],
+      "mots_cles_memo": ["détérioration", "casse moteur"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Oui, l'appareil peut provoquer un infarctus chez la victime.",
+        "Oui, le défibrillateur libère toujours une décharge électrique.",
+        "Oui, le DAE est strictement réservé aux professionnels de santé."
+      ],
+      "mots_cles_memo": ["non", "déclenche", "arrêt cardiaque"]
+    }
+  },
+
+  "37": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Lors d'un trajet sur autoroute avec un passager adulte fragile.",
+        "Lorsque l'on transporte un objet volumineux sur le siège passager.",
+        "Pendant un long trajet de nuit pour ne pas être surpris par le déclenchement."
+      ],
+      "mots_cles_memo": ["enfant", "dos à la route"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["visible", "atteindre", "gêner"]
+    }
+  },
+
+  "38": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une fois par an, lors du contrôle technique.",
+        "Uniquement avant chaque long trajet sur autoroute.",
+        "Tous les trois mois, lors de chaque vidange."
+      ],
+      "mots_cles_memo": ["chaque mois", "long trajet"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["délimiter", "danger", "sur-accident"]
+    }
+  },
+
+  "39": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "À partir de 7 ans, dès la fin de l'école primaire.",
+        "À partir de 12 ans, comme à l'arrière sans rehausseur.",
+        "À partir de 14 ans, avec une signature parentale."
+      ],
+      "mots_cles_memo": ["10 ans"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["SNA", "cycles", "fin d'alerte"]
+    }
+  },
+
+  "40": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Non, c'est uniquement un avertissement sans contre-visite.",
+        "Non, seul l'éclairage avant peut entraîner une contre-visite.",
+        "Non, mais cela donne lieu à une amende forfaitaire."
+      ],
+      "mots_cles_memo": ["oui"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["téléphone", "nature", "localisation"]
+    }
+  }
+}

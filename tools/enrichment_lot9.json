@@ -1,0 +1,181 @@
+{
+  "_doc": "Lot 9 — enrichissement Q81 à Q90.",
+
+  "81": {
+    "verif": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Orange.",
+        "Jaune.",
+        "Vert."
+      ],
+      "mots_cles_memo": ["rouge"]
+    },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une réduction notable de la distance de freinage.",
+        "Un blocage des roues arrière à grande vitesse.",
+        "Une consommation excessive de liquide de frein."
+      ],
+      "mots_cles_memo": ["dégradation", "freinage"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["30", "virage", "côte"]
+    }
+  },
+
+  "82": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["vision", "éblouissement"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsque l'on peut la mettre à l'abri plus confortablement.",
+        "Quand un autre véhicule s'approche à allure réduite.",
+        "Lorsqu'elle gêne le passage des autres véhicules."
+      ],
+      "mots_cles_memo": ["danger réel", "immédiat", "non contrôlable"]
+    }
+  },
+
+  "83": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Un arrêt automatique du moteur en quelques secondes.",
+        "Une diminution rapide du niveau de carburant.",
+        "Une perte progressive d'efficacité du freinage."
+      ],
+      "mots_cles_memo": ["surchauffe", "casse moteur"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["conseiller", "guider", "gestes"]
+    }
+  },
+
+  "84": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["film", "eau", "contrôle"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Le plus près possible de la route pour rester visible.",
+        "À l'intérieur du véhicule pour la protéger des intempéries.",
+        "À l'écart, hors de vue des passants pour éviter les attroupements."
+      ],
+      "mots_cles_memo": ["éloigné", "danger", "conséquences"]
+    }
+  },
+
+  "85": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["panne", "accident", "ralentissement"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["sécurité", "informer", "consignes"]
+    }
+  },
+
+  "86": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Avant chaque trajet, même court, par sécurité.",
+        "À chaque plein de carburant.",
+        "Deux fois par an, en début et fin de saison."
+      ],
+      "mots_cles_memo": ["chaque mois", "long trajet"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["délimiter", "danger", "sur-accident"]
+    }
+  },
+
+  "87": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Lorsqu'un passager est en position semi-allongée.",
+        "Lors d'un trajet de très courte distance en ville.",
+        "Quand le siège passager est en position avancée maximum."
+      ],
+      "mots_cles_memo": ["enfant", "dos à la route"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["visible", "atteindre", "gêner"]
+    }
+  },
+
+  "88": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Non, c'est le principe même de la sécurité enfant.",
+        "Non, sauf avec la clé électronique du véhicule.",
+        "Uniquement si la portière n'est pas verrouillée centralement."
+      ],
+      "mots_cles_memo": ["oui"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Une infection bactérienne grave dans les heures suivantes.",
+        "Une fracture spontanée des os fragilisés par la perte de sang.",
+        "Une lésion irréversible des reins par déshydratation."
+      ],
+      "mots_cles_memo": ["détresse circulatoire", "arrêt cardiaque"]
+    }
+  },
+
+  "89": {
+    "verif": { "mode": "geste_interieur" },
+    "qser": {
+      "mode": "qcm",
+      "distracteurs": [
+        "À partir de 7 ans, dès la fin de l'école primaire.",
+        "À partir de 12 ans, comme à l'arrière sans rehausseur.",
+        "À partir de 14 ans, avec autorisation parentale écrite."
+      ],
+      "mots_cles_memo": ["10 ans"]
+    },
+    "secours": {
+      "mode": "libre",
+      "mots_cles": ["SNA", "cycles", "fin d'alerte"]
+    }
+  },
+
+  "90": {
+    "verif": { "mode": "geste_exterieur" },
+    "qser": {
+      "mode": "libre",
+      "mots_cles": ["information", "collision"]
+    },
+    "secours": {
+      "mode": "qcm",
+      "distracteurs": [
+        "Car la communication doit absolument durer cinq minutes minimum.",
+        "Pour que l'opérateur puisse retracer précisément la localisation.",
+        "Car la loi exige une confirmation orale de l'identité de l'appelant."
+      ],
+      "mots_cles_memo": ["conseiller", "guider", "gestes"]
+    }
+  }
+}

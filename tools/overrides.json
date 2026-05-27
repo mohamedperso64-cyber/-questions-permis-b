@@ -1,0 +1,38 @@
+{
+  "_comment": "Corrections manuelles appliquées après le parsing du PDF. Les clés sont des IDs de question.",
+  "1": {
+    "enonce": "Montrez la commande de réglage de hauteur des feux."
+  },
+  "11": {
+    "secours_question": "Quels comportements adopter en présence d'une victime qui ne répond pas et ne réagit pas, mais respire ?",
+    "secours_reponse": "- La placer en position stable sur le côté ou position latérale de sécurité.\n- Alerter les secours.\n- Surveiller la respiration de la victime jusqu'à l'arrivée des secours."
+  },
+  "25": {
+    "reponse": "Rouge."
+  },
+  "47": {
+    "reponse": "Orange."
+  },
+  "55": {
+    "reponse": "Rouge."
+  },
+  "81": {
+    "reponse": "Rouge."
+  },
+  "18": {
+    "secours_question": "Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS) ?",
+    "secours_reponse": "Si la victime ne répond pas, ne réagit pas MAIS respire."
+  },
+  "59": {
+    "secours_question": "Quels comportements adopter en présence d'une victime qui ne répond pas et ne réagit pas, mais respire ?",
+    "secours_reponse": "- La placer en position stable sur le côté ou position latérale de sécurité.\n- Alerter les secours.\n- Surveiller la respiration de la victime jusqu'à l'arrivée des secours."
+  },
+  "76": {
+    "secours_question": "Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS) ?",
+    "secours_reponse": "Si la victime ne répond pas, ne réagit pas MAIS respire."
+  },
+  "97": {
+    "secours_question": "Quels comportements adopter en présence d'une victime qui ne répond pas et ne réagit pas, mais respire ?",
+    "secours_reponse": "- La placer en position stable sur le côté ou position latérale de sécurité.\n- Alerter les secours.\n- Surveiller la respiration de la victime jusqu'à l'arrivée des secours."
+  }
+}
